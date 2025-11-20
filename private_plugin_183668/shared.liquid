@@ -5,10 +5,11 @@ assign item = items | first
 %}
 <div class="title_bar">
   <span class="title">Data breaches</span>
-  <span class="instance">Latest entry: {{item.AddedDate | l_date: "short", locale}}</span>
+  <span class="instance">Latest entry: {{item.AddedDate | date : "%s" | plus: offset | date: "%Y-%m-%dT%H:%M:%S%z" |l_date: "short", locale}}</span>
 </div>
 {% endtemplate %}
 {% liquid 
+assign offset = trmnl.user.utc_offset
 assign all_breaches = IDX_0.data | sort: "AddedDate" | reverse
 assign items = all_breaches | slice: 0, 10
 %}
