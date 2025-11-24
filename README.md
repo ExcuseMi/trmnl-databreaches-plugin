@@ -3,16 +3,22 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2025-11-20 22:17:58 UTC*
+*Last updated: 2025-11-24 06:35:54 UTC*
 
 
-## 🔒 Plugin ID: 183668
+## <img src="assets/plugin-images/183668_icon.png" alt="Data Breaches icon" width="32"/> [Data Breaches](https://usetrmnl.com/recipes/183668)
 
-**Status**: ⏳ Not yet published on TRMNL or API unavailable
+![Data Breaches screenshot](assets/plugin-images/183668_screenshot.png)
 
-This plugin is configured but either hasn't been published to the TRMNL marketplace yet or the API is temporarily unavailable.
+### Description
+Keep up to date with the latest data breaches.
 
-**Plugin URL**: https://usetrmnl.com/recipes/183668
+### 📊 Statistics
+
+| Metric | Value |
+|--------|-------|
+| Installs | 12 |
+| Forks | 1 |
 
 ---
 
