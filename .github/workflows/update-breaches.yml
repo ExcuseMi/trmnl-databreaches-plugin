@@ -1,0 +1,42 @@
+name: Update Breach List
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/update-breaches.yml'
+      - 'scripts/update_breaches.py'
+
+permissions:
+  contents: write
+
+jobs:
+  update-breaches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest breaches
+        run: python scripts/update_breaches.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "🔐 Update latest breach list"
+          commit_author: "GitHub Actions <actions@github.com>"
+          file_pattern: |
+            data/breaches.json
