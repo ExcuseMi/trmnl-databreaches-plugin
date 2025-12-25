@@ -1,5 +1,8 @@
 [
   {
+    "AddedDate": "2025-12-24T02:40:40Z",
+    "PwnCount": 6341495,
+    "LogoPath": "https://logos.haveibeenpwned.com/Gemotest.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -10,13 +13,13 @@
       "Passport numbers",
       "Physical addresses"
     ],
-    "Title": "Медицинская лаборатория Гемотест (Gemotest)",
-    "AddedDate": "2025-12-24T02:40:40Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Gemotest.png",
-    "PwnCount": 6341495,
-    "Description": "In April 2022, <a href=\"https://www.zataz.com/le-laboratoire-gemotest-pirate-31-millions-de-patients-concernes/\" target=\"_blank\" rel=\"noopener\">Russian pharmaceutical company Gemotest suffered a data breach that exposed 31 million patients</a>. The data contained 6.3 million unique email addresses along with names, physical addresses, dates of birth, passport and insurance numbers. <a href=\"https://gxpnews.net/en/2022/07/gemotest-to-pay-a-rur-60000-fine-for-customer-personal-data-leakage/\" target=\"_blank\" rel=\"noopener\">Gemotest was later fined for the breach.</a>"
+    "Description": "In April 2022, <a href=\"https://www.zataz.com/le-laboratoire-gemotest-pirate-31-millions-de-patients-concernes/\" target=\"_blank\" rel=\"noopener\">Russian pharmaceutical company Gemotest suffered a data breach that exposed 31 million patients</a>. The data contained 6.3 million unique email addresses along with names, physical addresses, dates of birth, passport and insurance numbers. <a href=\"https://gxpnews.net/en/2022/07/gemotest-to-pay-a-rur-60000-fine-for-customer-personal-data-leakage/\" target=\"_blank\" rel=\"noopener\">Gemotest was later fined for the breach.</a>",
+    "Title": "Медицинская лаборатория Гемотест (Gemotest)"
   },
   {
+    "AddedDate": "2025-12-18T05:09:04Z",
+    "PwnCount": 487226,
+    "LogoPath": "https://logos.haveibeenpwned.com/AUTOSUR.png",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -26,116 +29,116 @@
       "Vehicle identification numbers (VINs)",
       "Vehicle registration plates"
     ],
-    "Title": "AUTOSUR",
-    "AddedDate": "2025-12-18T05:09:04Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/AUTOSUR.png",
-    "PwnCount": 487226,
-    "Description": "In March 2025, the French vehicle inspection company <a href=\"https://cyberpress.org/data-breach-strikes-autosur/\" target=\"_blank\" rel=\"noopener\">AUTOSUR suffered a data breach</a> exposing over 10M customer records, though only 487k unique email addresses were present. The compromised data included names, phone numbers, physical addresses, and vehicle details such as make and model, VIN, and registration plate. <a href=\"https://cyberpress.org/data-breach-strikes-autosur/\" target=\"_blank\" rel=\"noopener\">AUTOSUR later issued a disclosure notice</a> with further details."
+    "Description": "In March 2025, the French vehicle inspection company <a href=\"https://cyberpress.org/data-breach-strikes-autosur/\" target=\"_blank\" rel=\"noopener\">AUTOSUR suffered a data breach</a> exposing over 10M customer records, though only 487k unique email addresses were present. The compromised data included names, phone numbers, physical addresses, and vehicle details such as make and model, VIN, and registration plate. <a href=\"https://cyberpress.org/data-breach-strikes-autosur/\" target=\"_blank\" rel=\"noopener\">AUTOSUR later issued a disclosure notice</a> with further details.",
+    "Title": "AUTOSUR"
   },
   {
+    "AddedDate": "2025-12-18T01:33:47Z",
+    "PwnCount": 96320,
+    "LogoPath": "https://logos.haveibeenpwned.com/TheBottingNetwork.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
       "Passwords",
       "Usernames"
     ],
-    "Title": "The Botting Network",
-    "AddedDate": "2025-12-18T01:33:47Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/TheBottingNetwork.png",
-    "PwnCount": 96320,
-    "Description": "In August 2012, the forum for making money with botting \"The Botting Network\" <a href=\"https://x.com/r00tbeer_/status/237213939803504641\" target=\"_blank\" rel=\"noopener\">suffered a data breach that exposed 96k user records</a>. The now defunct vBulletin forum leaked 96k email addresses, usernames, dates of birth and salted MD5 password hashes."
+    "Description": "In August 2012, the forum for making money with botting \"The Botting Network\" <a href=\"https://x.com/r00tbeer_/status/237213939803504641\" target=\"_blank\" rel=\"noopener\">suffered a data breach that exposed 96k user records</a>. The now defunct vBulletin forum leaked 96k email addresses, usernames, dates of birth and salted MD5 password hashes.",
+    "Title": "The Botting Network"
   },
   {
-    "DataClasses": [
-      "Email addresses",
-      "IP addresses",
-      "Passwords",
-      "Usernames"
-    ],
-    "Title": "Web Hosting Talk",
     "AddedDate": "2025-12-17T22:43:18Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/WebHostingTalk.png",
     "PwnCount": 515149,
-    "Description": "In July 2016, <a href=\"https://web.archive.org/web/20160709135150/https://www.csoonline.com/article/3093018/security/mac-forums-hot-scripts-and-web-hosting-talk-databases-for-sale.html\" target=\"_blank\" rel=\"noopener\">the Web Hosting Talk forum suffered a data breach that was subsequently listed for sale</a>. The breach of the vBulletin based forum exposed 515k user records including usernames, email addresses, IP addresses and salted MD5 password hashes."
-  },
-  {
+    "LogoPath": "https://logos.haveibeenpwned.com/WebHostingTalk.png",
     "DataClasses": [
       "Email addresses",
       "IP addresses",
-      "Names",
       "Passwords",
       "Usernames"
     ],
-    "Title": "KinoKong",
+    "Description": "In July 2016, <a href=\"https://web.archive.org/web/20160709135150/https://www.csoonline.com/article/3093018/security/mac-forums-hot-scripts-and-web-hosting-talk-databases-for-sale.html\" target=\"_blank\" rel=\"noopener\">the Web Hosting Talk forum suffered a data breach that was subsequently listed for sale</a>. The breach of the vBulletin based forum exposed 515k user records including usernames, email addresses, IP addresses and salted MD5 password hashes.",
+    "Title": "Web Hosting Talk"
+  },
+  {
     "AddedDate": "2025-12-06T08:13:57Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/KinoKong.png",
     "PwnCount": 817808,
-    "Description": "In March 2021, the Russian online streaming service KinoKong suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The breach exposed over 800k unique email addresses along with names, usernames, IP addresses and MD5 password hashes."
+    "LogoPath": "https://logos.haveibeenpwned.com/KinoKong.png",
+    "DataClasses": [
+      "Email addresses",
+      "IP addresses",
+      "Names",
+      "Passwords",
+      "Usernames"
+    ],
+    "Description": "In March 2021, the Russian online streaming service KinoKong suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The breach exposed over 800k unique email addresses along with names, usernames, IP addresses and MD5 password hashes.",
+    "Title": "KinoKong"
   },
   {
+    "AddedDate": "2025-12-01T07:34:16Z",
+    "PwnCount": 287863,
+    "LogoPath": "https://logos.haveibeenpwned.com/Zilvia.png",
     "DataClasses": [
       "Email addresses",
       "IP addresses",
       "Passwords",
       "Usernames"
     ],
-    "Title": "Zilvia.net",
-    "AddedDate": "2025-12-01T07:34:16Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Zilvia.png",
-    "PwnCount": 287863,
-    "Description": "In November 2025, data breached from <a href=\"https://www.zilvia.net/\" target=\"_blank\" rel=\"noopener\">the Zilvia.net Nissan 240SX Silvia and Z Fairlady car forum</a> was leaked. The breach exposed 288k unique email addresses along with usernames, IP addresses and salted MD5 password hashes sourced from the vBulletin based platform. Attempts to contact Zilvia.net about the incident were unsuccessful."
+    "Description": "In November 2025, data breached from <a href=\"https://www.zilvia.net/\" target=\"_blank\" rel=\"noopener\">the Zilvia.net Nissan 240SX Silvia and Z Fairlady car forum</a> was leaked. The breach exposed 288k unique email addresses along with usernames, IP addresses and salted MD5 password hashes sourced from the vBulletin based platform. Attempts to contact Zilvia.net about the incident were unsuccessful.",
+    "Title": "Zilvia.net"
   },
   {
+    "AddedDate": "2025-11-27T05:49:56Z",
+    "PwnCount": 6414990,
+    "LogoPath": "https://logos.haveibeenpwned.com/CSDN.png",
     "DataClasses": [
       "Email addresses",
       "Passwords",
       "Usernames"
     ],
-    "Title": "China Software Developer Network",
-    "AddedDate": "2025-11-27T05:49:56Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/CSDN.png",
-    "PwnCount": 6414990,
-    "Description": "In 2011, <a href=\"https://infowatch.com/analytical-research/csdn-data-breach-exposes-6m-accounts-says-infowatch\" target=\"_blank\" rel=\"noopener\">the China Software Developer Network (CSDN) suffered a data breach that exposed over 6M user records</a>. The data included email addresses alongside usernames and plain text passwords."
+    "Description": "In 2011, <a href=\"https://infowatch.com/analytical-research/csdn-data-breach-exposes-6m-accounts-says-infowatch\" target=\"_blank\" rel=\"noopener\">the China Software Developer Network (CSDN) suffered a data breach that exposed over 6M user records</a>. The data included email addresses alongside usernames and plain text passwords.",
+    "Title": "China Software Developer Network"
   },
   {
+    "AddedDate": "2025-11-23T05:54:02Z",
+    "PwnCount": 103077,
+    "LogoPath": "https://logos.haveibeenpwned.com/CodeStepByStep.png",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Usernames"
     ],
-    "Title": "CodeStepByStep",
-    "AddedDate": "2025-11-23T05:54:02Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/CodeStepByStep.png",
-    "PwnCount": 103077,
-    "Description": "In November 2025, <a href=\"https://www.codestepbystep.com/r/system/breach-disclosure-2025-11-23\" target=\"_blank\" rel=\"noopener\">the online coding practice tool CodeStepByStep suffered a data breach that exposed 17k records which were subsequently published online</a>. The following month, a further corpus of data was released bringing the total to 103k. The impacted data included names, usernames and email addresses."
+    "Description": "In November 2025, <a href=\"https://www.codestepbystep.com/r/system/breach-disclosure-2025-11-23\" target=\"_blank\" rel=\"noopener\">the online coding practice tool CodeStepByStep suffered a data breach that exposed 17k records which were subsequently published online</a>. The following month, a further corpus of data was released bringing the total to 103k. The impacted data included names, usernames and email addresses.",
+    "Title": "CodeStepByStep"
   },
   {
+    "AddedDate": "2025-11-23T01:16:58Z",
+    "PwnCount": 1829314,
+    "LogoPath": "https://logos.haveibeenpwned.com/ADDA.png",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Passwords",
       "Phone numbers"
     ],
-    "Title": "ADDA",
-    "AddedDate": "2025-11-23T01:16:58Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/ADDA.png",
-    "PwnCount": 1829314,
-    "Description": "In March 2025, <a href=\"https://leakd.com/leaks/massive-adda-io-data-breach-1-8-million-users-exposed-on-hacker-forum/\" target=\"_blank\" rel=\"noopener\">data allegedly breached from the ADDA housing societies service was posted to a public hacking forum</a>. The data contained over 1.8M unique email addresses along with names, phone numbers and MD5 password hashes."
+    "Description": "In March 2025, <a href=\"https://leakd.com/leaks/massive-adda-io-data-breach-1-8-million-users-exposed-on-hacker-forum/\" target=\"_blank\" rel=\"noopener\">data allegedly breached from the ADDA housing societies service was posted to a public hacking forum</a>. The data contained over 1.8M unique email addresses along with names, phone numbers and MD5 password hashes.",
+    "Title": "ADDA"
   },
   {
+    "AddedDate": "2025-11-20T22:24:10Z",
+    "PwnCount": 340349,
+    "LogoPath": "https://logos.haveibeenpwned.com/IKO.png",
     "DataClasses": [
       "Email addresses",
       "Geographic locations",
       "Names",
       "Usernames"
     ],
-    "Title": "International Kiteboarding Organization",
-    "AddedDate": "2025-11-20T22:24:10Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/IKO.png",
-    "PwnCount": 340349,
-    "Description": "In November 2025, <a href=\"https://botcrawl.com/international-kiteboarding-organization-data-breach/\" target=\"_blank\" rel=\"noopener\">the International Kiteboarding Organization suffered a data breach that exposed 340k user records</a>. The data was subsequently listed for sale on a hacking forum and included email addresses, names, usernames and in many cases, the user's city and country."
+    "Description": "In November 2025, <a href=\"https://botcrawl.com/international-kiteboarding-organization-data-breach/\" target=\"_blank\" rel=\"noopener\">the International Kiteboarding Organization suffered a data breach that exposed 340k user records</a>. The data was subsequently listed for sale on a hacking forum and included email addresses, names, usernames and in many cases, the user's city and country.",
+    "Title": "International Kiteboarding Organization"
   },
   {
+    "AddedDate": "2025-11-20T05:41:12Z",
+    "PwnCount": 1041238,
+    "LogoPath": "https://logos.haveibeenpwned.com/Beckett.png",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -143,49 +146,49 @@
       "Physical addresses",
       "Usernames"
     ],
-    "Title": "Beckett Collectibles",
-    "AddedDate": "2025-11-20T05:41:12Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Beckett.png",
-    "PwnCount": 1041238,
-    "Description": "In November 2025, <a href=\"https://www.valueaddedresource.net/becket-collectibles-alleged-data-breach/\" target=\"_blank\" rel=\"noopener\">Beckett Collectibles experienced a data breach accompanied by website content defacement</a>. The stolen data was later advertised for sale on a prominent hacking forum, with portions subsequently released publicly. The publicly circulating data initially included more than 500k email addresses reportedly belonging to North American customers, before a larger corpus of over 1M addresses was published the following month. The impacted data included names, usernames, phone numbers and physical addresses."
+    "Description": "In November 2025, <a href=\"https://www.valueaddedresource.net/becket-collectibles-alleged-data-breach/\" target=\"_blank\" rel=\"noopener\">Beckett Collectibles experienced a data breach accompanied by website content defacement</a>. The stolen data was later advertised for sale on a prominent hacking forum, with portions subsequently released publicly. The publicly circulating data initially included more than 500k email addresses reportedly belonging to North American customers, before a larger corpus of over 1M addresses was published the following month. The impacted data included names, usernames, phone numbers and physical addresses.",
+    "Title": "Beckett Collectibles"
   },
   {
+    "AddedDate": "2025-11-20T02:44:14Z",
+    "PwnCount": 10003,
+    "LogoPath": "https://logos.haveibeenpwned.com/Eurofiber.png",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Phone numbers"
     ],
-    "Title": "Eurofiber",
-    "AddedDate": "2025-11-20T02:44:14Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Eurofiber.png",
-    "PwnCount": 10003,
-    "Description": "In November 2025, <a href=\"https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/\" target=\"_blank\" rel=\"noopener\">Eurofiber France disclosed a data breach of its ticket management platform</a>. Data containing 10k unique email addresses and a smaller number of names and phone numbers was subsequently leaked. A threat actor claiming responsibility for the breach alleges to have additional, more sensitive data including screenshots, VPN configuration files, credentials, source code, certificates, archives, and SQL backup files."
+    "Description": "In November 2025, <a href=\"https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/\" target=\"_blank\" rel=\"noopener\">Eurofiber France disclosed a data breach of its ticket management platform</a>. Data containing 10k unique email addresses and a smaller number of names and phone numbers was subsequently leaked. A threat actor claiming responsibility for the breach alleges to have additional, more sensitive data including screenshots, VPN configuration files, credentials, source code, certificates, archives, and SQL backup files.",
+    "Title": "Eurofiber"
   },
   {
+    "AddedDate": "2025-11-20T01:22:52Z",
+    "PwnCount": 187872,
+    "LogoPath": "https://logos.haveibeenpwned.com/Vultr.png",
     "DataClasses": [
       "Email addresses",
       "Geographic locations",
       "IP addresses",
       "Names"
     ],
-    "Title": "Vultr",
-    "AddedDate": "2025-11-20T01:22:52Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Vultr.png",
-    "PwnCount": 187872,
-    "Description": "In March 2023, the \"AI-first global cloud platform\" <a href=\"https://blogs.vultr.com/important-update\" target=\"_blank\" rel=\"noopener\">Vultr disclosed a security incident at a third-party vendor</a>. Dating back to the previous year, the incident was attributed to the ActiveCampaign email marketing service provider and resulted in the exposure of 188k unique email addresses. A small number of records also included name, IP address and country of origin. No Vultr systems or additional customer data were impacted. Vultr subsequently self-submitted the impacted data to HIBP."
+    "Description": "In March 2023, the \"AI-first global cloud platform\" <a href=\"https://blogs.vultr.com/important-update\" target=\"_blank\" rel=\"noopener\">Vultr disclosed a security incident at a third-party vendor</a>. Dating back to the previous year, the incident was attributed to the ActiveCampaign email marketing service provider and resulted in the exposure of 188k unique email addresses. A small number of records also included name, IP address and country of origin. No Vultr systems or additional customer data were impacted. Vultr subsequently self-submitted the impacted data to HIBP.",
+    "Title": "Vultr"
   },
   {
+    "AddedDate": "2025-11-13T10:23:12Z",
+    "PwnCount": 2046030,
+    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
     "DataClasses": [
       "Email addresses",
       "Passwords"
     ],
-    "Title": "Operation Endgame 3.0",
-    "AddedDate": "2025-11-13T10:23:12Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
-    "PwnCount": 2046030,
-    "Description": "Between 10 and 13 November 2025, <a href=\"https://www.europol.europa.eu/media-press/newsroom/news/end-of-game-for-cybercrime-infrastructure-1025-servers-taken-down\" target=\"_blank\" rel=\"noopener\">the latest phase of Operation Endgame was coordinated from Europol's headquarters in The Hague</a>. The actions targeted one of the biggest infostealer Rhadamanthys, the Remote Access Trojan VenomRAT, and the botnet Elysium, all of which played a key role in international cybercrime. Authorities took down these three large cybercrime enablers and provided 2 million impacted email addresses and 7.4 million passwords to HIBP."
+    "Description": "Between 10 and 13 November 2025, <a href=\"https://www.europol.europa.eu/media-press/newsroom/news/end-of-game-for-cybercrime-infrastructure-1025-servers-taken-down\" target=\"_blank\" rel=\"noopener\">the latest phase of Operation Endgame was coordinated from Europol's headquarters in The Hague</a>. The actions targeted one of the biggest infostealer Rhadamanthys, the Remote Access Trojan VenomRAT, and the botnet Elysium, all of which played a key role in international cybercrime. Authorities took down these three large cybercrime enablers and provided 2 million impacted email addresses and 7.4 million passwords to HIBP.",
+    "Title": "Operation Endgame 3.0"
   },
   {
+    "AddedDate": "2025-11-08T09:45:55Z",
+    "PwnCount": 198520,
+    "LogoPath": "https://logos.haveibeenpwned.com/Tisza.png",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -193,47 +196,47 @@
       "Physical addresses",
       "Usernames"
     ],
-    "Title": "TISZA Világ",
-    "AddedDate": "2025-11-08T09:45:55Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Tisza.png",
-    "PwnCount": 198520,
-    "Description": "In late October 2025, <a href=\"https://hungarytoday.hu/yet-another-tisza-party-data-breach-scandal-blame-the-russians-and-orban/\" target=\"_blank\" rel=\"noopener\">data breached from the Hungarian political party TISZA was published online before being extensively redistributed</a>. Stemming from a compromise of the TISZA Világ service earlier in the month, the breach exposed 200k records of personal data including email addresses along with names, phone numbers and physical addresses."
+    "Description": "In late October 2025, <a href=\"https://hungarytoday.hu/yet-another-tisza-party-data-breach-scandal-blame-the-russians-and-orban/\" target=\"_blank\" rel=\"noopener\">data breached from the Hungarian political party TISZA was published online before being extensively redistributed</a>. Stemming from a compromise of the TISZA Világ service earlier in the month, the breach exposed 200k records of personal data including email addresses along with names, phone numbers and physical addresses.",
+    "Title": "TISZA Világ"
   },
   {
+    "AddedDate": "2025-11-06T04:58:49Z",
+    "PwnCount": 1957476021,
+    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
     "DataClasses": [
       "Email addresses",
       "Passwords"
     ],
-    "Title": "Synthient Credential Stuffing Threat Data",
-    "AddedDate": "2025-11-06T04:58:49Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
-    "PwnCount": 1957476021,
-    "Description": "During 2025, <a href=\"https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned\" target=\"_blank\" rel=\"noopener\">the threat-intelligence firm Synthient aggregated 2 billion unique email addresses disclosed in credential-stuffing lists found across multiple malicious internet sources</a>. Comprised of email addresses and passwords from previous data breaches, these lists are used by attackers to compromise other, unrelated accounts of victims who have reused their passwords. The data also included 1.3 billion unique passwords, which are now searchable in Pwned Passwords. Working to turn breached data into awareness, Synthient partnered with HIBP to help victims of cybercrime understand their exposure."
+    "Description": "During 2025, <a href=\"https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned\" target=\"_blank\" rel=\"noopener\">the threat-intelligence firm Synthient aggregated 2 billion unique email addresses disclosed in credential-stuffing lists found across multiple malicious internet sources</a>. Comprised of email addresses and passwords from previous data breaches, these lists are used by attackers to compromise other, unrelated accounts of victims who have reused their passwords. The data also included 1.3 billion unique passwords, which are now searchable in Pwned Passwords. Working to turn breached data into awareness, Synthient partnered with HIBP to help victims of cybercrime understand their exposure.",
+    "Title": "Synthient Credential Stuffing Threat Data"
   },
   {
+    "AddedDate": "2025-10-27T02:40:29Z",
+    "PwnCount": 3864364,
+    "LogoPath": "https://logos.haveibeenpwned.com/MyVidster.png",
     "DataClasses": [
       "Email addresses",
       "Profile photos",
       "Usernames"
     ],
-    "Title": "MyVidster (2025)",
-    "AddedDate": "2025-10-27T02:40:29Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/MyVidster.png",
-    "PwnCount": 3864364,
-    "Description": "In October 2025, <a href=\"https://www.brinztech.com/breach-alerts/brinztech-myvidster-leak-exposes-4m-user-records-emails-usernames-phishing-risk/\" target=\"_blank\" rel=\"noopener\">the data of almost 4M MyVidster users was posted to a public hacking forum</a>. Separate to the 2015 breach, this incident exposed usernames, email addresses and in a small number of cases, profile photos."
+    "Description": "In October 2025, <a href=\"https://www.brinztech.com/breach-alerts/brinztech-myvidster-leak-exposes-4m-user-records-emails-usernames-phishing-risk/\" target=\"_blank\" rel=\"noopener\">the data of almost 4M MyVidster users was posted to a public hacking forum</a>. Separate to the 2015 breach, this incident exposed usernames, email addresses and in a small number of cases, profile photos.",
+    "Title": "MyVidster (2025)"
   },
   {
+    "AddedDate": "2025-10-21T19:14:38Z",
+    "PwnCount": 182962095,
+    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
     "DataClasses": [
       "Email addresses",
       "Passwords"
     ],
-    "Title": "Synthient Stealer Log Threat Data",
-    "AddedDate": "2025-10-21T19:14:38Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
-    "PwnCount": 182962095,
-    "Description": "During 2025, <a href=\"https://www.troyhunt.com/inside-the-synthient-threat-data\" target=\"_blank\" rel=\"noopener\">Synthient aggregated billions of records of \"threat data\" from various internet sources</a>. The data contained 183M unique email addresses alongside the websites they were entered into and the passwords used. After normalising and deduplicating the data, 183 million unique email addresses remained, each linked to the website where the credentials were captured, and the password used. This dataset is now searchable in HIBP by email address, password, domain, and the site on which the credentials were entered."
+    "Description": "During 2025, <a href=\"https://www.troyhunt.com/inside-the-synthient-threat-data\" target=\"_blank\" rel=\"noopener\">Synthient aggregated billions of records of \"threat data\" from various internet sources</a>. The data contained 183M unique email addresses alongside the websites they were entered into and the passwords used. After normalising and deduplicating the data, 183 million unique email addresses remained, each linked to the website where the credentials were captured, and the password used. This dataset is now searchable in HIBP by email address, password, domain, and the site on which the credentials were entered.",
+    "Title": "Synthient Stealer Log Threat Data"
   },
   {
+    "AddedDate": "2025-10-16T00:03:21Z",
+    "PwnCount": 17605276,
+    "LogoPath": "https://logos.haveibeenpwned.com/Prosper.png",
     "DataClasses": [
       "Browser user agent details",
       "Credit status information",
@@ -246,13 +249,13 @@
       "Names",
       "Physical addresses"
     ],
-    "Title": "Prosper",
-    "AddedDate": "2025-10-16T00:03:21Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Prosper.png",
-    "PwnCount": 17605276,
-    "Description": "In September 2025, <a href=\"https://www.prosper.com/legal/incident-response\" target=\"_blank\" rel=\"noopener\">Prosper announced that it had detected unauthorised access to their systems, which resulted in the exposure of customer and applicant information</a>. The data breach impacted 17.6M unique email addresses, along with other customer information, including US Social Security numbers. Prosper advised that they did not find any evidence of unauthorised access to customer accounts and funds, and that their customer-facing operations were uninterrupted. Further information about the incident is contained in <a href=\"https://www.prosper.com/legal/incident-response\" target=\"_blank\" rel=\"noopener\">Prosper's FAQs</a>."
+    "Description": "In September 2025, <a href=\"https://www.prosper.com/legal/incident-response\" target=\"_blank\" rel=\"noopener\">Prosper announced that it had detected unauthorised access to their systems, which resulted in the exposure of customer and applicant information</a>. The data breach impacted 17.6M unique email addresses, along with other customer information, including US Social Security numbers. Prosper advised that they did not find any evidence of unauthorised access to customer accounts and funds, and that their customer-facing operations were uninterrupted. Further information about the incident is contained in <a href=\"https://www.prosper.com/legal/incident-response\" target=\"_blank\" rel=\"noopener\">Prosper's FAQs</a>.",
+    "Title": "Prosper"
   },
   {
+    "AddedDate": "2025-10-15T03:16:37Z",
+    "PwnCount": 22907,
+    "LogoPath": "https://logos.haveibeenpwned.com/HelloCake.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -261,13 +264,13 @@
       "Physical addresses",
       "Purchases"
     ],
-    "Title": "Hello Cake",
-    "AddedDate": "2025-10-15T03:16:37Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/HelloCake.png",
-    "PwnCount": 22907,
-    "Description": "In July 2025, the sexual healthcare product maker <a href=\"https://oag.ca.gov/system/files/Hello%20Cake%20-%20Notification%20Email%20%28250919%29.pdf\" target=\"_blank\" rel=\"noopener\">Hello Cake suffered a data breach</a>. The data was subsequently posted on a public hacking forum and included 23k unique email addresses along with names, phone numbers, physical addresses, dates of birth and purchases."
+    "Description": "In July 2025, the sexual healthcare product maker <a href=\"https://oag.ca.gov/system/files/Hello%20Cake%20-%20Notification%20Email%20%28250919%29.pdf\" target=\"_blank\" rel=\"noopener\">Hello Cake suffered a data breach</a>. The data was subsequently posted on a public hacking forum and included 23k unique email addresses along with names, phone numbers, physical addresses, dates of birth and purchases.",
+    "Title": "Hello Cake"
   },
   {
+    "AddedDate": "2025-10-11T09:20:39Z",
+    "PwnCount": 7316915,
+    "LogoPath": "https://logos.haveibeenpwned.com/VietnamAirlines.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -275,38 +278,38 @@
       "Names",
       "Phone numbers"
     ],
-    "Title": "Vietnam Airlines",
-    "AddedDate": "2025-10-11T09:20:39Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/VietnamAirlines.png",
-    "PwnCount": 7316915,
-    "Description": "In October 2025, <a href=\"https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes\" target=\"_blank\" rel=\"noopener\">data stolen from the Salesforce instances of multiple companies by a hacking group calling itself \"Scattered LAPSUS$ Hunters\" was publicly released</a>. Among the affected organisations was Vietnam Airlines, which had 7.3M unique customer email addresses exposed following a breach of its Salesforce environment in June of that year. The compromised data also included names, phone numbers, dates of birth, and loyalty program membership numbers."
+    "Description": "In October 2025, <a href=\"https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes\" target=\"_blank\" rel=\"noopener\">data stolen from the Salesforce instances of multiple companies by a hacking group calling itself \"Scattered LAPSUS$ Hunters\" was publicly released</a>. Among the affected organisations was Vietnam Airlines, which had 7.3M unique customer email addresses exposed following a breach of its Salesforce environment in June of that year. The compromised data also included names, phone numbers, dates of birth, and loyalty program membership numbers.",
+    "Title": "Vietnam Airlines"
   },
   {
+    "AddedDate": "2025-10-07T00:15:09Z",
+    "PwnCount": 3339512,
+    "LogoPath": "https://logos.haveibeenpwned.com/Adpost.png",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Usernames"
     ],
-    "Title": "Adpost",
-    "AddedDate": "2025-10-07T00:15:09Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Adpost.png",
-    "PwnCount": 3339512,
-    "Description": "In February 2025, data obtained from an earlier Adpost breach surfaced. The dataset contained 3.3M records including email addresses, usernames, and display names. <a href=\"https://www.adpost.com/article/security-update-regarding-the-february-2025-adpost-data-breach\" target=\"_blank\" rel=\"noopener\">Adpost later published a disclosure notice</a> and advised they'd forced a credential refresh, among other actions."
+    "Description": "In February 2025, data obtained from an earlier Adpost breach surfaced. The dataset contained 3.3M records including email addresses, usernames, and display names. <a href=\"https://www.adpost.com/article/security-update-regarding-the-february-2025-adpost-data-breach\" target=\"_blank\" rel=\"noopener\">Adpost later published a disclosure notice</a> and advised they'd forced a credential refresh, among other actions.",
+    "Title": "Adpost"
   },
   {
+    "AddedDate": "2025-10-04T01:05:43Z",
+    "PwnCount": 95351,
+    "LogoPath": "https://logos.haveibeenpwned.com/ArtistsNClients.png",
     "DataClasses": [
       "Email addresses",
       "IP addresses",
       "Passwords",
       "Usernames"
     ],
-    "Title": "Artists&Clients",
-    "AddedDate": "2025-10-04T01:05:43Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/ArtistsNClients.png",
-    "PwnCount": 95351,
-    "Description": "In August 2025, the \"marketplace that connects artists to prospective clients\" <a href=\"https://www.reddit.com/r/commissions/comments/1n496t0/beware_psa_artistsclients_website_breach_anyone/\" target=\"_blank\" rel=\"noopener\">Artists&Clients, suffered a data breach and subsequent ransom demand of US$50k</a>. The data was subsequently leaked publicly and included 95k unique email addresses alongside usernames, IP addresses and bcrypt password hashes."
+    "Description": "In August 2025, the \"marketplace that connects artists to prospective clients\" <a href=\"https://www.reddit.com/r/commissions/comments/1n496t0/beware_psa_artistsclients_website_breach_anyone/\" target=\"_blank\" rel=\"noopener\">Artists&Clients, suffered a data breach and subsequent ransom demand of US$50k</a>. The data was subsequently leaked publicly and included 95k unique email addresses alongside usernames, IP addresses and bcrypt password hashes.",
+    "Title": "Artists&Clients"
   },
   {
+    "AddedDate": "2025-10-03T05:25:36Z",
+    "PwnCount": 187457,
+    "LogoPath": "https://logos.haveibeenpwned.com/HomeRefill.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -314,26 +317,26 @@
       "Passwords",
       "Phone numbers"
     ],
-    "Title": "HomeRefill",
-    "AddedDate": "2025-10-03T05:25:36Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/HomeRefill.png",
-    "PwnCount": 187457,
-    "Description": "In April 2020, now defunct Brazilian e-commerce platform HomeRefill suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The data included 187k unique email addresses along with names, phone numbers, dates of birth and salted password hashes."
+    "Description": "In April 2020, now defunct Brazilian e-commerce platform HomeRefill suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The data included 187k unique email addresses along with names, phone numbers, dates of birth and salted password hashes.",
+    "Title": "HomeRefill"
   },
   {
+    "AddedDate": "2025-10-03T01:07:11Z",
+    "PwnCount": 118864,
+    "LogoPath": "https://logos.haveibeenpwned.com/LatestPilotJobs.png",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Passwords",
       "Usernames"
     ],
-    "Title": "Latest Pilot Jobs",
-    "AddedDate": "2025-10-03T01:07:11Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/LatestPilotJobs.png",
-    "PwnCount": 118864,
-    "Description": "In August 2022, the Latest Pilot Jobs website suffered a data breach that later appeared on a popular hacking forum before being <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">redistributed as part of a larger corpus of data</a>. The data included 119k unique email addresses along with names, usernames and unsalted MD5 password hashes."
+    "Description": "In August 2022, the Latest Pilot Jobs website suffered a data breach that later appeared on a popular hacking forum before being <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">redistributed as part of a larger corpus of data</a>. The data included 119k unique email addresses along with names, usernames and unsalted MD5 password hashes.",
+    "Title": "Latest Pilot Jobs"
   },
   {
+    "AddedDate": "2025-09-25T01:50:55Z",
+    "PwnCount": 1462025,
+    "LogoPath": "https://logos.haveibeenpwned.com/Cultura.png",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -341,13 +344,13 @@
       "Physical addresses",
       "Purchases"
     ],
-    "Title": "Cultura",
-    "AddedDate": "2025-09-25T01:50:55Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Cultura.png",
-    "PwnCount": 1462025,
-    "Description": "In September 2024, <a href=\"https://therecord.media/france-retailers-hacked-confirm-cyberattack\" target=\"_blank\" rel=\"noopener\">French retailer Cultura was the victim of a cyber attack they attributed to an external IT service provider</a>. The resultant data breach included almost 1.5M unique email addresses along with names, phone numbers, physical addresses and orders. Cultura advised that all affected customers had been notified about the incident."
+    "Description": "In September 2024, <a href=\"https://therecord.media/france-retailers-hacked-confirm-cyberattack\" target=\"_blank\" rel=\"noopener\">French retailer Cultura was the victim of a cyber attack they attributed to an external IT service provider</a>. The resultant data breach included almost 1.5M unique email addresses along with names, phone numbers, physical addresses and orders. Cultura advised that all affected customers had been notified about the incident.",
+    "Title": "Cultura"
   },
   {
+    "AddedDate": "2025-09-24T06:37:56Z",
+    "PwnCount": 5685771,
+    "LogoPath": "https://logos.haveibeenpwned.com/BouyguesTelecom.png",
     "DataClasses": [
       "Bank account numbers",
       "Dates of birth",
@@ -356,13 +359,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "Title": "Bouygues Telecom",
-    "AddedDate": "2025-09-24T06:37:56Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/BouyguesTelecom.png",
-    "PwnCount": 5685771,
-    "Description": "In August 2025, <a href=\"https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/\" target=\"_blank\" rel=\"noopener\">the French telecommunications company Bouygues Telecom detected a cyber attack against their services</a>. The incident resulted in a data breach that exposed almost 6.4M customer records, including 5.7M unique email addresses. The breach also exposed names, physical addresses, phone numbers, dates of birth and IBANs (International Bank Account Numbers). Bouygues Telecom advised that all affected customers had been notified about the incident."
+    "Description": "In August 2025, <a href=\"https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/\" target=\"_blank\" rel=\"noopener\">the French telecommunications company Bouygues Telecom detected a cyber attack against their services</a>. The incident resulted in a data breach that exposed almost 6.4M customer records, including 5.7M unique email addresses. The breach also exposed names, physical addresses, phone numbers, dates of birth and IBANs (International Bank Account Numbers). Bouygues Telecom advised that all affected customers had been notified about the incident.",
+    "Title": "Bouygues Telecom"
   },
   {
+    "AddedDate": "2025-09-21T07:48:38Z",
+    "PwnCount": 808034,
+    "LogoPath": "https://logos.haveibeenpwned.com/Animeify.png",
     "DataClasses": [
       "Email addresses",
       "Genders",
@@ -370,26 +373,26 @@
       "Passwords",
       "Usernames"
     ],
-    "Title": "Animeify",
-    "AddedDate": "2025-09-21T07:48:38Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Animeify.png",
-    "PwnCount": 808034,
-    "Description": "In October 2021, the now defunct Arabic language Anime website Animeify suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The data included 808k unique email addresses along with names, usernames, genders and plain text passwords."
+    "Description": "In October 2021, the now defunct Arabic language Anime website Animeify suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The data included 808k unique email addresses along with names, usernames, genders and plain text passwords.",
+    "Title": "Animeify"
   },
   {
+    "AddedDate": "2025-09-18T03:09:54Z",
+    "PwnCount": 960213,
+    "LogoPath": "https://logos.haveibeenpwned.com/FreeOnes.png",
     "DataClasses": [
       "Email addresses",
       "IP addresses",
       "Passwords",
       "Usernames"
     ],
-    "Title": "FreeOnes",
-    "AddedDate": "2025-09-18T03:09:54Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/FreeOnes.png",
-    "PwnCount": 960213,
-    "Description": "In February 2017, the forum for the adult website FreeOnes suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The data included 960k unique email addresses alongside usernames, IP addresses and salted MD5 password hashes."
+    "Description": "In February 2017, the forum for the adult website FreeOnes suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The data included 960k unique email addresses alongside usernames, IP addresses and salted MD5 password hashes.",
+    "Title": "FreeOnes"
   },
   {
+    "AddedDate": "2025-09-16T00:10:29Z",
+    "PwnCount": 870108,
+    "LogoPath": "https://logos.haveibeenpwned.com/Miljodata.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -399,10 +402,7 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "Title": "Miljödata",
-    "AddedDate": "2025-09-16T00:10:29Z",
-    "LogoPath": "https://logos.haveibeenpwned.com/Miljodata.png",
-    "PwnCount": 870108,
-    "Description": "In August 2025, <a href=\"https://swedenherald.com/article/stolen-swedish-data-from-miljodata-leaked-on-darknet-expert-warns\" target=\"_blank\" rel=\"noopener\">the Swedish system supplier Miljödata was the victim of a ransomware attack</a>. Following the attack, data was subsequently published on the dark web and included 870k unique email addresses across various compromised files. Data also included names, phone numbers, physical addresses, dates of birth and government-issued personal identity numbers."
+    "Description": "In August 2025, <a href=\"https://swedenherald.com/article/stolen-swedish-data-from-miljodata-leaked-on-darknet-expert-warns\" target=\"_blank\" rel=\"noopener\">the Swedish system supplier Miljödata was the victim of a ransomware attack</a>. Following the attack, data was subsequently published on the dark web and included 870k unique email addresses across various compromised files. Data also included names, phone numbers, physical addresses, dates of birth and government-issued personal identity numbers.",
+    "Title": "Miljödata"
   }
 ]
