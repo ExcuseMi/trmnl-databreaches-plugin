@@ -3,7 +3,7 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2026-01-04 06:36:59 UTC*
+*Last updated: 2026-01-05 06:44:05 UTC*
 
 
 ## <img src="assets/plugin-images/183668_icon.png" alt="Data Breaches icon" width="32"/> [Data Breaches](https://usetrmnl.com/recipes/183668)
@@ -17,7 +17,7 @@ Keep up to date with the latest data breaches using <a href='https://haveibeenpw
 
 | Metric | Value |
 |--------|-------|
-| Installs | 35 |
+| Installs | 37 |
 | Forks | 3 |
 
 ---
