@@ -1,10 +1,10 @@
 ---
 strategy: polling
 no_screen_padding: 'no'
-dark_mode: 'no'
+dark_mode: 'yes'
 static_data: ''
 polling_verb: get
-polling_url: "https://haveibeenpwned.com/api/v3/breaches\r\n\r\nhttps://usetrmnl.com/custom_plugin_example_data.json"
+polling_url: https://haveibeenpwned.com/api/v3/breaches
 polling_headers: ''
 polling_body: ''
 id: 183668
@@ -12,8 +12,10 @@ custom_fields:
 - keyname: about
   name: About This Plugin
   field_type: author_bio
-  description: Keep up to date with the latest data breaches.
+  description: Keep up to date with the latest data breaches using <a href='https://haveibeenpwned.com'>haveibeenpwned.com</a> as datasource.
   github_url: https://github.com/ExcuseMi/trmnl-databreaches-plugin
   learn_more_url: https://haveibeenpwned.com
+  category: news,analytics
+  help_text: TRMNL X Ready
 name: Data Breaches
-refresh_interval: 15
+refresh_interval: 360

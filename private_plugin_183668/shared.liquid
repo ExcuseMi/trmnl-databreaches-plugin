@@ -4,13 +4,13 @@ assign item = items | first
 
 %}
 <div class="title_bar">
-  <span class="title">Data breaches</span>
-  <span class="instance">Latest entry: {{item.AddedDate | date : "%s" | plus: offset | date: "%Y-%m-%dT%H:%M:%S%z" |l_date: "short", locale}}</span>
+  <span class="title text-stroke">Data breaches</span>
+  <span class="instance text-stroke">Latest entry: {{item.AddedDate | date : "%s" | plus: offset | date: "%Y-%m-%dT%H:%M:%S%z" |l_date: "short", locale}}</span>
 </div>
 {% endtemplate %}
 {% liquid 
 assign offset = trmnl.user.utc_offset
-assign all_breaches = IDX_0.data | sort: "AddedDate" | reverse
+assign all_breaches = data | sort: "AddedDate" | reverse
 assign items = all_breaches | slice: 0, 10
 %}
 {% template item_template %}
@@ -24,51 +24,40 @@ assign is_new = seconds_old <= 86400
   <div class="item item--emphasis-{{ current_index | modulo: 2 | plus: 2 }} border--h-5 pb--2">
     <div class="meta"></div>
     <div class="content">
-      <div class="grid grid--cols-10">
-        {% assign main_col_span = 9 %}
-
+      <div class="flex flex--row gap--xsmall">
         {% if item.LogoPath and item.LogoPath != blank %}
-        <div class="col--span-1 layout--center">
-          <img class="image layout--center image--dither image--contain w--max-{{image_max}} h--max-{{image_max}}" src="{{item.LogoPath}}" alt="{{ item.Title }}" />
-        </div>
-        {% else %}
-        {% assign main_col_span = main_col_span | plus: 1 %}
+        <img class="image layout--center image--dither image--contain w--max-{{image_max}} h--max-{{image_max | times: 3 }}" src="{{item.LogoPath}}" alt="{{ item.Title }}" />
         {% endif %}
-        <div class="col--span-{{main_col_span}}">
-          <div class="grid " >
-  <div class="col">
-            <div class="title title--small">{{ item.Title }}  <span class="label label--outline ml--1 p--1">
-              {% assign count = item.PwnCount %}
-              {% if count >= 1000000000 %}
-              {% assign formatted = count | divided_by: 1000000000.0 | round: 1 %}
-              {{ formatted | remove: ".0" }}B
-              {% elsif count >= 1000000 %}
-              {% assign formatted = count | divided_by: 1000000.0 | round: 1 %}
-              {{ formatted | remove: ".0" }}M
-              {% elsif count >= 1000 %}
-              {% assign formatted = count | divided_by: 1000.0 | round: 1 %}
-              {{ formatted | remove: ".0" }}K
-              {% else %}
-              {{ count }}
-              {% endif %}</span>
-
-            </div>
-            {% if item.DataClasses and item.DataClasses.size > 0 %}
-            <div class="description text--small text--gray-20 text--left" data-clamp="2">
-              {{ item.DataClasses | join: " • " }}
-            </div>
-            {% endif %}
-            {% if compact %}
+        <div class="flex flex--col gap--xsmall flex--left">
+          <div class="title title--small  p--0 m--0">{{ item.Title }}  <span class="label label--outline ml--1 p--1">
+            {% assign count = item.PwnCount %}
+            {% if count >= 1000000000 %}
+            {% assign formatted = count | divided_by: 1000000000.0 | round: 1 %}
+            {{ formatted | remove: ".0" }}B
+            {% elsif count >= 1000000 %}
+            {% assign formatted = count | divided_by: 1000000.0 | round: 1 %}
+            {{ formatted | remove: ".0" }}M
+            {% elsif count >= 1000 %}
+            {% assign formatted = count | divided_by: 1000.0 | round: 1 %}
+            {{ formatted | remove: ".0" }}K
             {% else %}
-            <div class="description text-stroke" data-clamp="{{description_lines}}">{{ item.Description }}</div>
-            {% endif %}
+            {{ count }}
+            {% endif %}</span>
           </div>
+          {% if item.DataClasses and item.DataClasses.size > 0 %}
+          <div class="description text--small text--gray-20 text--left  p--0 m--0" data-clamp="2">
+            {{ item.DataClasses | join: " • " }}
+          </div>
+          {% endif %}
+          {% if compact %}
+          {% else %}
+          <div class="description text-stroke p--0 m--0" data-clamp="{{description_lines}}">{{ item.Description }}</div>
+          {% endif %}
         </div>
       </div>
-      </div>
-
     </div>
   </div>
+
   {% endtemplate %}
   {% template columns %}
   <div class="layout layout--col layout--stretch grayscale">
