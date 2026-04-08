@@ -1,28 +1,27 @@
 [
   {
     "PwnCount": 106271,
-    "Title": "My Lovely AI",
     "AddedDate": "2026-04-08T03:40:14Z",
     "DataClasses": [
       "Email addresses",
       "Social media profiles"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/MyLovelyAI.png",
-    "Description": "In April 2026, the NSFW AI girlfriend platform <a href=\"https://dailydarkweb.net/mylovely-ai-data-breach-exposes-private-content-of-over-106000-users/\" target=\"_blank\" rel=\"noopener\">My Lovely AI suffered a data breach that exposed over 100k users</a>. The data included user-created prompts and links to the resulting AI-generated images, along with a small number of Discord and X usernames."
+    "Description": "In April 2026, the NSFW AI girlfriend platform <a href=\"https://dailydarkweb.net/mylovely-ai-data-breach-exposes-private-content-of-over-106000-users/\" target=\"_blank\" rel=\"noopener\">My Lovely AI suffered a data breach that exposed over 100k users</a>. The data included user-created prompts and links to the resulting AI-generated images, along with a small number of Discord and X usernames.",
+    "Title": "My Lovely AI"
   },
   {
     "PwnCount": 1195684,
-    "Title": "Crunchyroll",
     "AddedDate": "2026-04-04T04:47:29Z",
     "DataClasses": [
       "Email addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Crunchyroll.png",
-    "Description": "In March 2026, the anime streaming service <a href=\"https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/\" target=\"_blank\" rel=\"noopener\">Crunchyroll suffered a data breach alleged to have impacted 6.8M users</a>. The exposed data is reported to have originated from the company's Zendesk support system where \"name, login name, email address, IP address, general geographic location and the contents of the support tickets\" were exposed. <a href=\"https://x.com/IntCyberDigest/status/2040197865369125022\" target=\"_blank\" rel=\"noopener\">A subset of 1.2M email addresses from an alleged 2M record dataset being sold was later provided to HIBP.</a>"
+    "Description": "In March 2026, the anime streaming service <a href=\"https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/\" target=\"_blank\" rel=\"noopener\">Crunchyroll suffered a data breach alleged to have impacted 6.8M users</a>. The exposed data is reported to have originated from the company's Zendesk support system where \"name, login name, email address, IP address, general geographic location and the contents of the support tickets\" were exposed. <a href=\"https://x.com/IntCyberDigest/status/2040197865369125022\" target=\"_blank\" rel=\"noopener\">A subset of 1.2M email addresses from an alleged 2M record dataset being sold was later provided to HIBP.</a>",
+    "Title": "Crunchyroll"
   },
   {
     "PwnCount": 291739,
-    "Title": "SongTrivia2",
     "AddedDate": "2026-04-04T01:59:01Z",
     "DataClasses": [
       "Auth tokens",
@@ -33,11 +32,11 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/SongTrivia2.png",
-    "Description": "In April 2026, the music trivia platform <a href=\"https://x.com/DarkWebInformer/status/2039804363225391147\" target=\"_blank\" rel=\"noopener\">SongTrivia2 suffered a data breach that was subsequently published to a public hacking forum</a>. The data contained a total of 291k unique email addresses sourced from either Google OAuth logins or accounts created on the site, the latter also containing bcrypt password hashes. The data also included names, usernames and avatars."
+    "Description": "In April 2026, the music trivia platform <a href=\"https://x.com/DarkWebInformer/status/2039804363225391147\" target=\"_blank\" rel=\"noopener\">SongTrivia2 suffered a data breach that was subsequently published to a public hacking forum</a>. The data contained a total of 291k unique email addresses sourced from either Google OAuth logins or accounts created on the site, the latter also containing bcrypt password hashes. The data also included names, usernames and avatars.",
+    "Title": "SongTrivia2"
   },
   {
     "PwnCount": 253510,
-    "Title": "SUCCESS",
     "AddedDate": "2026-04-01T06:51:14Z",
     "DataClasses": [
       "Device information",
@@ -50,11 +49,11 @@
       "Purchases"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/SUCCESS.png",
-    "Description": "In March 2026, the personal development and achievement media brand <a href=\"https://x.com/DarkWebInformer/status/2039094399594897818\" target=\"_blank\" rel=\"noopener\">SUCCESS suffered a data breach</a>. The incident exposed 250k unique email addresses along with names, IP addresses, phone numbers and, for a limited number of staff members, bcrypt password hashes. The data also included orders containing physical addresses and the payment method used. In <a href=\"https://www.success.com/inside-success/security-update\" target=\"_blank\" rel=\"noopener\">SUCCESS' disclosure notice</a>, they advised their system had also been abused to send offensive newsletters with quotes falsely attributed to contributors."
+    "Description": "In March 2026, the personal development and achievement media brand <a href=\"https://x.com/DarkWebInformer/status/2039094399594897818\" target=\"_blank\" rel=\"noopener\">SUCCESS suffered a data breach</a>. The incident exposed 250k unique email addresses along with names, IP addresses, phone numbers and, for a limited number of staff members, bcrypt password hashes. The data also included orders containing physical addresses and the payment method used. In <a href=\"https://www.success.com/inside-success/security-update\" target=\"_blank\" rel=\"noopener\">SUCCESS' disclosure notice</a>, they advised their system had also been abused to send offensive newsletters with quotes falsely attributed to contributors.",
+    "Title": "SUCCESS"
   },
   {
     "PwnCount": 144250,
-    "Title": "Cuties AI",
     "AddedDate": "2026-03-31T06:52:52Z",
     "DataClasses": [
       "Avatars",
@@ -62,11 +61,11 @@
       "Email addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/CutiesAI.png",
-    "Description": "In March 2026, the NSFW AI companion platform <a href=\"https://x.com/DarkWebInformer/status/2036476854958178811\" target=\"_blank\" rel=\"noopener\">Cuties AI suffered a data breach that was subsequently published to a public hacking forum</a>. The incident exposed 144k unique email addresses along with display names, avatars, prompts and descriptions used to generate AI adult images, as well as URLs to the generated content. The data also included the account that created the content and a stated \"preference\" of either female or trans."
+    "Description": "In March 2026, the NSFW AI companion platform <a href=\"https://x.com/DarkWebInformer/status/2036476854958178811\" target=\"_blank\" rel=\"noopener\">Cuties AI suffered a data breach that was subsequently published to a public hacking forum</a>. The incident exposed 144k unique email addresses along with display names, avatars, prompts and descriptions used to generate AI adult images, as well as URLs to the generated content. The data also included the account that created the content and a stated \"preference\" of either female or trans.",
+    "Title": "Cuties AI"
   },
   {
     "PwnCount": 339778,
-    "Title": "BreachForums Version 5",
     "AddedDate": "2026-03-27T02:19:23Z",
     "DataClasses": [
       "Email addresses",
@@ -74,11 +73,11 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/BreachForums.png",
-    "Description": "In March 2026, <a href=\"https://x.com/DarkWebInformer/status/2037305685965148419\" target=\"_blank\" rel=\"noopener\">a breach of one of the many iterations of the BreachForums hacking forum known as \"Version 5\" was publicly disclosed</a>. The incident exposed 340k unique email addresses along with usernames and argon2 password hashes."
+    "Description": "In March 2026, <a href=\"https://x.com/DarkWebInformer/status/2037305685965148419\" target=\"_blank\" rel=\"noopener\">a breach of one of the many iterations of the BreachForums hacking forum known as \"Version 5\" was publicly disclosed</a>. The incident exposed 340k unique email addresses along with usernames and argon2 password hashes.",
+    "Title": "BreachForums Version 5"
   },
   {
     "PwnCount": 128683,
-    "Title": "Scuf Gaming",
     "AddedDate": "2026-03-26T05:31:26Z",
     "DataClasses": [
       "Display names",
@@ -88,11 +87,11 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/ScufGaming.png",
-    "Description": "In June 2015, custom gaming controller maker <a href=\"https://www.malwarebytes.com/blog/news/2015/06/up-down-left-right-hack\" target=\"_blank\" rel=\"noopener\">Scuf Gaming suffered a data breach</a>. The incident exposed 129k unique email addresses along with usernames, display names, IP addresses and password hashes."
+    "Description": "In June 2015, custom gaming controller maker <a href=\"https://www.malwarebytes.com/blog/news/2015/06/up-down-left-right-hack\" target=\"_blank\" rel=\"noopener\">Scuf Gaming suffered a data breach</a>. The incident exposed 129k unique email addresses along with usernames, display names, IP addresses and password hashes.",
+    "Title": "Scuf Gaming"
   },
   {
     "PwnCount": 292993,
-    "Title": "Sound Radix",
     "AddedDate": "2026-03-26T00:06:29Z",
     "DataClasses": [
       "Email addresses",
@@ -100,11 +99,11 @@
       "Passwords"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/SoundRadix.png",
-    "Description": "In March 2026, the audio production tools company <a href=\"https://support.soundradix.com/support/solutions/articles/5000900043\" target=\"_blank\" rel=\"noopener\">Sound Radix disclosed a data breach that they subsequently self-submitted to HIBP</a>. The incident impacted 293k unique email addresses and names. Sound Radix advised that it is possible that additional data including hashed passwords may have been exposed, and that no financial or credit card information was impacted."
+    "Description": "In March 2026, the audio production tools company <a href=\"https://support.soundradix.com/support/solutions/articles/5000900043\" target=\"_blank\" rel=\"noopener\">Sound Radix disclosed a data breach that they subsequently self-submitted to HIBP</a>. The incident impacted 293k unique email addresses and names. Sound Radix advised that it is possible that additional data including hashed passwords may have been exposed, and that no financial or credit card information was impacted.",
+    "Title": "Sound Radix"
   },
   {
     "PwnCount": 222762,
-    "Title": "RuneScape Boards",
     "AddedDate": "2026-03-23T21:40:06Z",
     "DataClasses": [
       "Email addresses",
@@ -113,11 +112,11 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/RSBoards.png",
-    "Description": "In around 2011, the now defunct RuneScape Boards forum (also known as RSBoards) suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The vBulletin-based service exposed 223k unique email addresses along with usernames, IP addresses and salted MD5 password hashes."
+    "Description": "In around 2011, the now defunct RuneScape Boards forum (also known as RSBoards) suffered a data breach <a href=\"https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/\" target=\"_blank\" rel=\"noopener\">that was later redistributed as part of a larger corpus of data</a>. The vBulletin-based service exposed 223k unique email addresses along with usernames, IP addresses and salted MD5 password hashes.",
+    "Title": "RuneScape Boards"
   },
   {
     "PwnCount": 903080,
-    "Title": "Aura",
     "AddedDate": "2026-03-18T05:29:58Z",
     "DataClasses": [
       "Customer service comments",
@@ -128,11 +127,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Aura.png",
-    "Description": "In March 2026, <a href=\"https://www.aura.com/press/release/statement-on-exposure-of-customer-information\" target=\"_blank\" rel=\"noopener\">the online safety service Aura disclosed a data breach that exposed 900k unique email addresses</a>. The data was primarily associated with a marketing tool from a previously acquired company, with fewer than 20k active Aura customers affected. Exposed data included names, phone numbers, physical and IP addresses, and customer service notes. Aura advised that no Social Security numbers, passwords or financial information were compromised."
+    "Description": "In March 2026, <a href=\"https://www.aura.com/press/release/statement-on-exposure-of-customer-information\" target=\"_blank\" rel=\"noopener\">the online safety service Aura disclosed a data breach that exposed 900k unique email addresses</a>. The data was primarily associated with a marketing tool from a previously acquired company, with fewer than 20k active Aura customers affected. Exposed data included names, phone numbers, physical and IP addresses, and customer service notes. Aura advised that no Social Security numbers, passwords or financial information were compromised.",
+    "Title": "Aura"
   },
   {
     "PwnCount": 105814,
-    "Title": "Divine Skins",
     "AddedDate": "2026-03-15T05:18:40Z",
     "DataClasses": [
       "Email addresses",
@@ -140,11 +139,11 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/DivineSkins.png",
-    "Description": "In March 2026, <a href=\"https://discord.com/channels/1272878928368762996/1272879634488496138/1482141964559319210\" target=\"_blank\" rel=\"noopener\">the League of Legends custom skins service Divine Skins suffered a data breach</a>. The incident was disclosed via the service's Discord server, where Divine Skins stated that an unauthorised third party accessed part of its systems, deleted all skins from the database and exposed email addresses and usernames. The data also contained a history of purchases made by users."
+    "Description": "In March 2026, <a href=\"https://discord.com/channels/1272878928368762996/1272879634488496138/1482141964559319210\" target=\"_blank\" rel=\"noopener\">the League of Legends custom skins service Divine Skins suffered a data breach</a>. The incident was disclosed via the service's Discord server, where Divine Skins stated that an unauthorised third party accessed part of its systems, deleted all skins from the database and exposed email addresses and usernames. The data also contained a history of purchases made by users.",
+    "Title": "Divine Skins"
   },
   {
     "PwnCount": 1266822,
-    "Title": "Baydöner",
     "AddedDate": "2026-03-15T03:36:43Z",
     "DataClasses": [
       "Dates of birth",
@@ -158,22 +157,22 @@
       "Purchases"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Baydoner.png",
-    "Description": "In March 2026, <a href=\"https://dailydarkweb.net/baydoner-data-breach-exposes-3-7-million-customer-records/\" target=\"_blank\" rel=\"noopener\">the Turkish restaurant chain Baydöner suffered a data breach which was subsequently published to a public hacking forum</a>. The incident exposed over 1.2M unique email addresses along with names, phone numbers, cities of residence and plaintext passwords. A small number of records also included Turkish national ID number and date of birth. In <a href=\"https://www.baydoner.com/duyurular\" target=\"_blank\" rel=\"noopener\">their disclosure notice</a>, Baydöner stated that payment and financial data was not affected."
+    "Description": "In March 2026, <a href=\"https://dailydarkweb.net/baydoner-data-breach-exposes-3-7-million-customer-records/\" target=\"_blank\" rel=\"noopener\">the Turkish restaurant chain Baydöner suffered a data breach which was subsequently published to a public hacking forum</a>. The incident exposed over 1.2M unique email addresses along with names, phone numbers, cities of residence and plaintext passwords. A small number of records also included Turkish national ID number and date of birth. In <a href=\"https://www.baydoner.com/duyurular\" target=\"_blank\" rel=\"noopener\">their disclosure notice</a>, Baydöner stated that payment and financial data was not affected.",
+    "Title": "Baydöner"
   },
   {
     "PwnCount": 712904,
-    "Title": "Provecho",
     "AddedDate": "2026-03-03T06:40:50Z",
     "DataClasses": [
       "Email addresses",
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Provecho.png",
-    "Description": "In early 2026, data purportedly sourced from the recipe and meal planning service Provecho was alleged to have been obtained in a breach. The exposed data included 713k unique email address along with username and the creator account holders followed. Provecho has been notified and is aware of the claims surrounding the incident."
+    "Description": "In early 2026, data purportedly sourced from the recipe and meal planning service Provecho was alleged to have been obtained in a breach. The exposed data included 713k unique email address along with username and the creator account holders followed. Provecho has been notified and is aware of the claims surrounding the incident.",
+    "Title": "Provecho"
   },
   {
     "PwnCount": 495556,
-    "Title": "Lovora",
     "AddedDate": "2026-03-02T07:23:06Z",
     "DataClasses": [
       "Display names",
@@ -181,11 +180,11 @@
       "Profile photos"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Lovora.png",
-    "Description": "In February 2026, the couples and relationship app Lovora allegedly suffered a data breach that exposed 496k unique email addresses. The data also included users’ display names and profile photos, along with other personal information collected through use of the app. The app’s maker, Plantake, did not respond to multiple attempts to contact them about the incident."
+    "Description": "In February 2026, the couples and relationship app Lovora allegedly suffered a data breach that exposed 496k unique email addresses. The data also included users’ display names and profile photos, along with other personal information collected through use of the app. The app’s maker, Plantake, did not respond to multiple attempts to contact them about the incident.",
+    "Title": "Lovora"
   },
   {
     "PwnCount": 22874,
-    "Title": "Quitbro",
     "AddedDate": "2026-03-02T05:27:11Z",
     "DataClasses": [
       "Email addresses",
@@ -193,11 +192,11 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Quitbro.png",
-    "Description": "In February 2026, the porn addiction app Quitbro allegedly suffered a data breach that exposed 23k unique email addresses. The data also included users’ years of birth, responses to questions within the app and their last recorded relapse time. The app’s maker, Plantake, did not respond to multiple attempts to contact them about the incident."
+    "Description": "In February 2026, the porn addiction app Quitbro allegedly suffered a data breach that exposed 23k unique email addresses. The data also included users’ years of birth, responses to questions within the app and their last recorded relapse time. The app’s maker, Plantake, did not respond to multiple attempts to contact them about the incident.",
+    "Title": "Quitbro"
   },
   {
     "PwnCount": 1060191,
-    "Title": "KomikoAI",
     "AddedDate": "2026-03-02T01:31:29Z",
     "DataClasses": [
       "AI prompts",
@@ -206,11 +205,11 @@
       "Names"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/KomikoAI.png",
-    "Description": "In February, the AI-powered comic generation platform <a href=\"https://x.com/troyhunt/status/2028273847376765139\" target=\"_blank\" rel=\"noopener\">KomikoAI suffered a data breach</a>. The incident exposed 1M unique email addresses along with names, user posts and the AI prompts used to generate content. The exposed data enables the mapping of individual AI prompts to specific email addresses."
+    "Description": "In February, the AI-powered comic generation platform <a href=\"https://x.com/troyhunt/status/2028273847376765139\" target=\"_blank\" rel=\"noopener\">KomikoAI suffered a data breach</a>. The incident exposed 1M unique email addresses along with names, user posts and the AI prompts used to generate content. The exposed data enables the mapping of individual AI prompts to specific email addresses.",
+    "Title": "KomikoAI"
   },
   {
     "PwnCount": 6077025,
-    "Title": "Odido",
     "AddedDate": "2026-02-26T23:25:29Z",
     "DataClasses": [
       "Bank account numbers",
@@ -226,11 +225,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Odido.png",
-    "Description": "In February 2026, Dutch telco <a href=\"https://www.rtl.nl/nieuws/binnenland/artikel/5571885/odido-data-dark-web-oud-klanten-shinyhunters\" target=\"_blank\" rel=\"noopener\">Odido was the victim of a data breach and subsequent extortion attempt</a>. Shortly after, a total of 6M unique email addresses were published across four separate data releases over consecutive days. The exposed data includes names, physical addresses, phone numbers, bank account numbers, dates of birth, customer service notes and passport, driver’s licence and European national ID numbers. <a href=\"https://www.odido.nl/veiligheid\" target=\"_blank\" rel=\"noopener\">Odido has published a disclosure notice</a> including an FAQ to support affected customers."
+    "Description": "In February 2026, Dutch telco <a href=\"https://www.rtl.nl/nieuws/binnenland/artikel/5571885/odido-data-dark-web-oud-klanten-shinyhunters\" target=\"_blank\" rel=\"noopener\">Odido was the victim of a data breach and subsequent extortion attempt</a>. Shortly after, a total of 6M unique email addresses were published across four separate data releases over consecutive days. The exposed data includes names, physical addresses, phone numbers, bank account numbers, dates of birth, customer service notes and passport, driver’s licence and European national ID numbers. <a href=\"https://www.odido.nl/veiligheid\" target=\"_blank\" rel=\"noopener\">Odido has published a disclosure notice</a> including an FAQ to support affected customers.",
+    "Title": "Odido"
   },
   {
     "PwnCount": 38306562,
-    "Title": "Canadian Tire",
     "AddedDate": "2026-02-25T06:53:25Z",
     "DataClasses": [
       "Dates of birth",
@@ -243,11 +242,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/CanadianTire.png",
-    "Description": "In October 2025, <a href=\"https://www.montechnicien.com/en/canadian-tire-in-crisis-42-million-accounts-exposed/\" target=\"_blank\" rel=\"noopener\">retailer Canadian Tire was the victim of a data breach</a> that exposed almost 42M records. The data contained 38M unique email addresses along with names, phone numbers and physical addresses. Passwords were stored as PBKDF2 hashes and for a subset of records, dates of birth and partial credit card data were also included (card type, expiry and masked card number). In <a href=\"https://corp.canadiantire.ca/English/Cyber-Incident/default.aspx\" target=\"_blank\" rel=\"noopener\">its disclosure notice</a>, Canadian Tire advised that the incident did not impact bank account information or loyalty program data."
+    "Description": "In October 2025, <a href=\"https://www.montechnicien.com/en/canadian-tire-in-crisis-42-million-accounts-exposed/\" target=\"_blank\" rel=\"noopener\">retailer Canadian Tire was the victim of a data breach</a> that exposed almost 42M records. The data contained 38M unique email addresses along with names, phone numbers and physical addresses. Passwords were stored as PBKDF2 hashes and for a subset of records, dates of birth and partial credit card data were also included (card type, expiry and masked card number). In <a href=\"https://corp.canadiantire.ca/English/Cyber-Incident/default.aspx\" target=\"_blank\" rel=\"noopener\">its disclosure notice</a>, Canadian Tire advised that the incident did not impact bank account information or loyalty program data.",
+    "Title": "Canadian Tire"
   },
   {
     "PwnCount": 12461887,
-    "Title": "CarGurus",
     "AddedDate": "2026-02-22T04:43:54Z",
     "DataClasses": [
       "Email addresses",
@@ -257,11 +256,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/CarGurus.png",
-    "Description": "In February 2026, <a href=\"https://www.theregister.com/2026/02/18/shinyhunters_cargurus_breach/\" target=\"_blank\" rel=\"noopener\">the automotive marketplace CarGurus was the target of a data breach attributed to the threat actor ShinyHunters</a>. Following an attempted extortion, the data was published publicly and contained more than 12M email addresses across multiple files including user account ID mappings, finance pre-qualification application data and dealer account and subscription information. Impacted data also included names, phone numbers, physical and IP addresses, and auto finance application outcomes."
+    "Description": "In February 2026, <a href=\"https://www.theregister.com/2026/02/18/shinyhunters_cargurus_breach/\" target=\"_blank\" rel=\"noopener\">the automotive marketplace CarGurus was the target of a data breach attributed to the threat actor ShinyHunters</a>. Following an attempted extortion, the data was published publicly and contained more than 12M email addresses across multiple files including user account ID mappings, finance pre-qualification application data and dealer account and subscription information. Impacted data also included names, phone numbers, physical and IP addresses, and auto finance application outcomes.",
+    "Title": "CarGurus"
   },
   {
     "PwnCount": 431371,
-    "Title": "CarMax",
     "AddedDate": "2026-02-20T03:48:30Z",
     "DataClasses": [
       "Email addresses",
@@ -270,11 +269,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/CarMax.png",
-    "Description": "In January 2026, <a href=\"https://undercodenews.com/massive-carmax-data-breach-sparks-alarm-across-us-500000-records-stolen-by-shinyhunters/\" target=\"_blank\" rel=\"noopener\">data allegedly sourced from US automotive retailer CarMax was published online following a failed extortion attempt</a>. The data included 431k unique email addresses along with names, phone numbers and physical addresses."
+    "Description": "In January 2026, <a href=\"https://undercodenews.com/massive-carmax-data-breach-sparks-alarm-across-us-500000-records-stolen-by-shinyhunters/\" target=\"_blank\" rel=\"noopener\">data allegedly sourced from US automotive retailer CarMax was published online following a failed extortion attempt</a>. The data included 431k unique email addresses along with names, phone numbers and physical addresses.",
+    "Title": "CarMax"
   },
   {
     "PwnCount": 967178,
-    "Title": "Figure",
     "AddedDate": "2026-02-18T01:11:11Z",
     "DataClasses": [
       "Dates of birth",
@@ -284,11 +283,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Figure.png",
-    "Description": "In February 2026, <a href=\"https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/\" target=\"_blank\" rel=\"noopener\">data obtained from the fintech lending platform Figure was publicly posted online</a>. The exposed data, dating back to January 2026, contained over 900k unique email addresses along with names, phone numbers, physical addresses and dates of birth. Figure confirmed the incident and attributed it to a social engineering attack in which an employee was tricked into providing access."
+    "Description": "In February 2026, <a href=\"https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/\" target=\"_blank\" rel=\"noopener\">data obtained from the fintech lending platform Figure was publicly posted online</a>. The exposed data, dating back to January 2026, contained over 900k unique email addresses along with names, phone numbers, physical addresses and dates of birth. Figure confirmed the incident and attributed it to a social engineering attack in which an employee was tricked into providing access.",
+    "Title": "Figure"
   },
   {
     "PwnCount": 581877,
-    "Title": "Canada Goose",
     "AddedDate": "2026-02-17T00:19:51Z",
     "DataClasses": [
       "Device information",
@@ -301,11 +300,11 @@
       "Purchases"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/CanadaGoose.png",
-    "Description": "In February 2026, <a href=\"https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/\" target=\"_blank\" rel=\"noopener\">a data breach allegedly containing data relating to Canada Goose customers was published publicly</a>. The data contained 920k records with 582k unique email addresses and included names, phone numbers, IP addresses, physical addresses and partial credit card data, specifically card type and last 4 digits. Canada Goose advised that the data \"appears to relate to past customer transactions\" and stated that it originated from a breach at a third party in August 2025. The most recent transaction date in the data is July 2025."
+    "Description": "In February 2026, <a href=\"https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/\" target=\"_blank\" rel=\"noopener\">a data breach allegedly containing data relating to Canada Goose customers was published publicly</a>. The data contained 920k records with 582k unique email addresses and included names, phone numbers, IP addresses, physical addresses and partial credit card data, specifically card type and last 4 digits. Canada Goose advised that the data \"appears to relate to past customer transactions\" and stated that it originated from a breach at a third party in August 2025. The most recent transaction date in the data is July 2025.",
+    "Title": "Canada Goose"
   },
   {
     "PwnCount": 623750,
-    "Title": "University of Pennsylvania",
     "AddedDate": "2026-02-16T21:57:51Z",
     "DataClasses": [
       "Charitable donations",
@@ -321,11 +320,11 @@
       "Spouses names"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/UniversityOfPennsylvania.png",
-    "Description": "In October 2025, <a href=\"https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/\" target=\"_blank\" rel=\"noopener\">the University of Pennsylvania was the victim of a data breach followed by a ransom demand</a>, largely affecting its donor database. After the incident, the attackers sent inflammatory emails to some victims. <a href=\"https://www.thedp.com/article/2026/02/penn-hack-donor-data-ransom-one-million-shinyhunters-gse-emai\" target=\"_blank\" rel=\"noopener\">The data was later published online in February 2026</a> and included 624k unique email addresses alongside names and physical addresses. For some donor records, additional personal information was exposed, including gender and date of birth. A small subset of records also contained religion, spouse name, estimated income and donation history."
+    "Description": "In October 2025, <a href=\"https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/\" target=\"_blank\" rel=\"noopener\">the University of Pennsylvania was the victim of a data breach followed by a ransom demand</a>, largely affecting its donor database. After the incident, the attackers sent inflammatory emails to some victims. <a href=\"https://www.thedp.com/article/2026/02/penn-hack-donor-data-ransom-one-million-shinyhunters-gse-emai\" target=\"_blank\" rel=\"noopener\">The data was later published online in February 2026</a> and included 624k unique email addresses alongside names and physical addresses. For some donor records, additional personal information was exposed, including gender and date of birth. A small subset of records also contained religion, spouse name, estimated income and donation history.",
+    "Title": "University of Pennsylvania"
   },
   {
     "PwnCount": 450764,
-    "Title": "APOIA.se",
     "AddedDate": "2026-02-16T07:31:43Z",
     "DataClasses": [
       "Email addresses",
@@ -333,11 +332,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/APOIAse.png",
-    "Description": "In December 2025, a database of the Brazilian crowdfunding platform <a href=\"https://canaltech.com.br/seguranca/apoiase-confirma-vazamento-de-dados-de-usuarios-veja-como-se-proteger/\" target=\"_blank\" rel=\"noopener\">APOIA.se was posted to an online forum</a>. In January 2026, the company confirmed it had suffered a data breach. The incident exposed 451k unique email addresses along with names and physical addresses."
+    "Description": "In December 2025, a database of the Brazilian crowdfunding platform <a href=\"https://canaltech.com.br/seguranca/apoiase-confirma-vazamento-de-dados-de-usuarios-veja-como-se-proteger/\" target=\"_blank\" rel=\"noopener\">APOIA.se was posted to an online forum</a>. In January 2026, the company confirmed it had suffered a data breach. The incident exposed 451k unique email addresses along with names and physical addresses.",
+    "Title": "APOIA.se"
   },
   {
     "PwnCount": 1017,
-    "Title": "Toy Battles",
     "AddedDate": "2026-02-10T02:44:47Z",
     "DataClasses": [
       "Chat logs",
@@ -346,11 +345,11 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/ToyBattles.png",
-    "Description": "In February 2026, the online gaming community <a href=\"https://toybattles.net/\" target=\"_blank\" rel=\"noopener\">Toy Battles</a> suffered a data breach. The incident exposed 1k unique email addresses alongside usernames, IP addresses and chat logs. Following the breach, Toy Battles self-submitted the data to Have I Been Pwned."
+    "Description": "In February 2026, the online gaming community <a href=\"https://toybattles.net/\" target=\"_blank\" rel=\"noopener\">Toy Battles</a> suffered a data breach. The incident exposed 1k unique email addresses alongside usernames, IP addresses and chat logs. Following the breach, Toy Battles self-submitted the data to Have I Been Pwned.",
+    "Title": "Toy Battles"
   },
   {
     "PwnCount": 5600,
-    "Title": "Association Nationale des Premiers Secours",
     "AddedDate": "2026-02-10T01:27:25Z",
     "DataClasses": [
       "Dates of birth",
@@ -360,22 +359,22 @@
       "Salutations"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/ANPS.png",
-    "Description": "In January 2026, <a href=\"https://x.com/justabreach/status/2017260468448981108/\" target=\"_blank\" rel=\"noopener\">a data breach impacting the French non-profit Association Nationale des Premiers Secours (ANPS) was posted to a hacking forum</a>. The breach exposed 5.6k unique email addresses along with names, dates of birth and places of birth. ANPS self-submitted the data to HIBP and advised the incident was traced back to a legacy system and did not impact health data, financial information or passwords."
+    "Description": "In January 2026, <a href=\"https://x.com/justabreach/status/2017260468448981108/\" target=\"_blank\" rel=\"noopener\">a data breach impacting the French non-profit Association Nationale des Premiers Secours (ANPS) was posted to a hacking forum</a>. The breach exposed 5.6k unique email addresses along with names, dates of birth and places of birth. ANPS self-submitted the data to HIBP and advised the incident was traced back to a legacy system and did not impact health data, financial information or passwords.",
+    "Title": "Association Nationale des Premiers Secours"
   },
   {
     "PwnCount": 663121,
-    "Title": "Substack",
     "AddedDate": "2026-02-06T23:33:22Z",
     "DataClasses": [
       "Email addresses",
       "Phone numbers"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Substack.png",
-    "Description": "In October 2025, <a href=\"https://www.csoonline.com/article/4128287/substack-data-breach-leaks-users-email-addresses-and-phone-numbers.html\" target=\"_blank\" rel=\"noopener\">the publishing platform Substack suffered a data breach</a> that was subsequently circulated more widely in February 2026. The breach exposed 663k account holder records containing email addresses along with publicly visible profile information from Substack accounts, such as publication names and bios. A subset of records also included phone numbers."
+    "Description": "In October 2025, <a href=\"https://www.csoonline.com/article/4128287/substack-data-breach-leaks-users-email-addresses-and-phone-numbers.html\" target=\"_blank\" rel=\"noopener\">the publishing platform Substack suffered a data breach</a> that was subsequently circulated more widely in February 2026. The breach exposed 663k account holder records containing email addresses along with publicly visible profile information from Substack accounts, such as publication names and bios. A subset of records also included phone numbers.",
+    "Title": "Substack"
   },
   {
     "PwnCount": 1435174,
-    "Title": "Betterment",
     "AddedDate": "2026-02-05T00:29:45Z",
     "DataClasses": [
       "Dates of birth",
@@ -389,11 +388,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/Betterment.png",
-    "Description": "In January 2026, <a href=\"https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/\" target=\"_blank\" rel=\"noopener\">the automated investment platform Betterment confirmed it had suffered a data breach attributed to a social engineering attack</a>. As part of the incident, Betterment customers received fraudulent crypto-related messages promising high returns if funds were sent to an attacker-controlled cryptocurrency wallet. The breach exposed 1.4M unique email addresses, along with names and geographic location data. A subset of records also included dates of birth, phone numbers, and physical addresses. In <a href=\"https://www.betterment.com/customer-update\" target=\"_blank\" rel=\"noopener\">its disclosure notice</a>, Betterment stated that the incident did not provide attackers with access to customer accounts and did not expose passwords or other login credentials."
+    "Description": "In January 2026, <a href=\"https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/\" target=\"_blank\" rel=\"noopener\">the automated investment platform Betterment confirmed it had suffered a data breach attributed to a social engineering attack</a>. As part of the incident, Betterment customers received fraudulent crypto-related messages promising high returns if funds were sent to an attacker-controlled cryptocurrency wallet. The breach exposed 1.4M unique email addresses, along with names and geographic location data. A subset of records also included dates of birth, phone numbers, and physical addresses. In <a href=\"https://www.betterment.com/customer-update\" target=\"_blank\" rel=\"noopener\">its disclosure notice</a>, Betterment stated that the incident did not provide attackers with access to customer accounts and did not expose passwords or other login credentials.",
+    "Title": "Betterment"
   },
   {
     "PwnCount": 5112502,
-    "Title": "Panera Bread",
     "AddedDate": "2026-01-31T03:19:30Z",
     "DataClasses": [
       "Email addresses",
@@ -402,11 +401,11 @@
       "Physical addresses"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/PaneraBread.png",
-    "Description": "In January 2026, <a href=\"https://dailydarkweb.net/panera-bread-data-breach-shinyhunters-claims-14-million-records-stolen/\" target=\"_blank\" rel=\"noopener\">Panera Bread suffered a data breach that exposed 14M records</a>. After an attempted extortion failed, the attackers published the data publicly, which included 5.1M unique email addresses along with associated account information such as names, phone numbers and physical addresses. Panera Bread subsequently confirmed that <a href=\"https://www.reuters.com/business/bumble-match-panera-bread-crunchbase-hit-by-cyberattacks-bloomberg-news-reports-2026-01-29/\" target=\"_blank\" rel=\"noopener\">\"the data involved is contact information\"</a> and that authorities were notified."
+    "Description": "In January 2026, <a href=\"https://dailydarkweb.net/panera-bread-data-breach-shinyhunters-claims-14-million-records-stolen/\" target=\"_blank\" rel=\"noopener\">Panera Bread suffered a data breach that exposed 14M records</a>. After an attempted extortion failed, the attackers published the data publicly, which included 5.1M unique email addresses along with associated account information such as names, phone numbers and physical addresses. Panera Bread subsequently confirmed that <a href=\"https://www.reuters.com/business/bumble-match-panera-bread-crunchbase-hit-by-cyberattacks-bloomberg-news-reports-2026-01-29/\" target=\"_blank\" rel=\"noopener\">\"the data involved is contact information\"</a> and that authorities were notified.",
+    "Title": "Panera Bread"
   },
   {
     "PwnCount": 29815722,
-    "Title": "SoundCloud",
     "AddedDate": "2026-01-27T01:13:16Z",
     "DataClasses": [
       "Avatars",
@@ -417,6 +416,7 @@
       "Usernames"
     ],
     "LogoPath": "https://logos.haveibeenpwned.com/SoundCloud.png",
-    "Description": "In December 2025, <a href=\"https://au.pcmag.com/security/114866/hackers-steal-limited-data-on-20-of-soundcloud-users\" target=\"_blank\" rel=\"noopener\">SoundCloud announced it had discovered unauthorised activity on its platform</a>. The incident allowed an attacker to map publicly available SoundCloud profile data to email addresses for approximately 20% of its users. The impacted data included 30M unique email addresses, names, usernames, avatars, follower and following counts and, in some cases, the user’s country. The attackers later attempted to extort SoundCloud before publicly releasing the data the following month."
+    "Description": "In December 2025, <a href=\"https://au.pcmag.com/security/114866/hackers-steal-limited-data-on-20-of-soundcloud-users\" target=\"_blank\" rel=\"noopener\">SoundCloud announced it had discovered unauthorised activity on its platform</a>. The incident allowed an attacker to map publicly available SoundCloud profile data to email addresses for approximately 20% of its users. The impacted data included 30M unique email addresses, names, usernames, avatars, follower and following counts and, in some cases, the user’s country. The attackers later attempted to extort SoundCloud before publicly releasing the data the following month.",
+    "Title": "SoundCloud"
   }
 ]
