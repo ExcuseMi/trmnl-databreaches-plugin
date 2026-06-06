@@ -1,6 +1,8 @@
 [
   {
     "PwnCount": 396313,
+    "AddedDate": "2026-06-05T06:53:15Z",
+    "Title": "BCD Travel",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -10,13 +12,13 @@
       "Physical addresses",
       "Support tickets"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/BCDTravel.png",
     "Description": "In May 2026, the corporate travel management company <a href=\"https://www.ictmagazine.nl/nieuws/shinyhunters-claimt-datadiefstal-bij-groot-internationaal-zakenreisbureau/\" target=\"_blank\" rel=\"noopener\">BCD Travel was claimed as a victim of the ShinyHunters \"pay or leak\" extortion campaign</a>. Data allegedly obtained from BCD was subsequently published publicly in early June and contained 396k unique email addresses. Other exposed data included names, addresses, phone numbers, job titles and employer names, spanning a variety of different data sets including leads, internal staff and support tickets.",
-    "AddedDate": "2026-06-05T06:53:15Z",
-    "Title": "BCD Travel"
+    "LogoPath": "https://logos.haveibeenpwned.com/BCDTravel.png"
   },
   {
     "PwnCount": 2553599,
+    "AddedDate": "2026-06-03T22:56:30Z",
+    "Title": "DentaQuest",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -27,13 +29,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/DentaQuest.png",
     "Description": "In May 2026, the dental benefits administrator <a href=\"https://x.com/DarkWebInformer/status/2060540499740479800\" target=\"_blank\" rel=\"noopener\">DentaQuest was the target of a ShinyHunters \"pay or leak\" extortion campaign</a> that resulted in the group publicly publishing hundreds of gigabytes of data allegedly obtained from the company. The data included 2.6M unique email addresses along with names, addresses and phone numbers. Much of the data appeared in healthcare enrollment files (<a href=\"https://en.wikipedia.org/wiki/ASC_X12\" target=\"_blank\" rel=\"noopener\">ASC X12 transaction sets</a>) with some containing Medicaid IDs, while additional data appeared in member records and related files. <a href=\"https://www.dentaquest.com/en/security-update-0526\" target=\"_blank\" rel=\"noopener\">DentaQuest acknowledged \"a cybersecurity incident involving unauthorized access to a limited portion of our network\"</a>, and advised they had contained the attack and mitigated the threat.",
-    "AddedDate": "2026-06-03T22:56:30Z",
-    "Title": "DentaQuest"
+    "LogoPath": "https://logos.haveibeenpwned.com/DentaQuest.png"
   },
   {
     "PwnCount": 177860,
+    "AddedDate": "2026-06-01T07:39:02Z",
+    "Title": "Edmunds",
     "DataClasses": [
       "Device information",
       "Email addresses",
@@ -42,13 +44,13 @@
       "Phone numbers",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Edmunds.png",
     "Description": "In January 2026, the automotive research and car-shopping platform <a href=\"https://cybernews.com/security/edmunds-data-breach-shiny-hunters/\" target=\"_blank\" rel=\"noopener\">Edmunds was listed by the ShinyHunters hacking group as having been breached</a>. Data purportedly obtained in the incident was later published publicly and included 178k unique email addresses, usernames, passwords, IP addresses, phone numbers and vehicle-related records.",
-    "AddedDate": "2026-06-01T07:39:02Z",
-    "Title": "Edmunds"
+    "LogoPath": "https://logos.haveibeenpwned.com/Edmunds.png"
   },
   {
     "PwnCount": 63926,
+    "AddedDate": "2026-05-30T23:35:29Z",
+    "Title": "Atlas Menu",
     "DataClasses": [
       "Email addresses",
       "IP addresses",
@@ -56,13 +58,13 @@
       "Support tickets",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/AtlasMenu.png",
     "Description": "In May 2026, the GTA V and CS2 cheat service <a href=\"https://atlasmenu.net\" target=\"_blank\" rel=\"noopener\">Atlas Menu</a> suffered a data breach. An attacker claimed to have gained access to all Atlas systems and published the service's database to a public GitHub repository. The incident exposed 64k unique email addresses along with usernames, IP addresses, support tickets and passwords stored as bcrypt hashes.",
-    "AddedDate": "2026-05-30T23:35:29Z",
-    "Title": "Atlas Menu"
+    "LogoPath": "https://logos.haveibeenpwned.com/AtlasMenu.png"
   },
   {
     "PwnCount": 4851517,
+    "AddedDate": "2026-05-28T20:00:34Z",
+    "Title": "Charter",
     "DataClasses": [
       "Email addresses",
       "Job titles",
@@ -70,13 +72,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Charter.png",
     "Description": "In May 2026, the telecommunications company <a href=\"https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/\" target=\"_blank\" rel=\"noopener\">Charter Communications (the parent company behind the consumer broadband and cable brand Spectrum) was named by the ShinyHunters group in a \"pay or leak\" extortion campaign</a>. The group later published the data, which exposed 4.9M unique email addresses along with names, phone numbers and physical addresses. A subset of approximately 85k records originating from an internal employee directory also included job titles. Charter confirmed the incident, but stated that no sensitive personal information or customer proprietary network information (CPNI) was exfiltrated.",
-    "AddedDate": "2026-05-28T20:00:34Z",
-    "Title": "Charter"
+    "LogoPath": "https://logos.haveibeenpwned.com/Charter.png"
   },
   {
     "PwnCount": 269299,
+    "AddedDate": "2026-05-28T07:22:18Z",
+    "Title": "Kemper",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -85,13 +87,13 @@
       "Physical addresses",
       "Purchases"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Kemper.png",
     "Description": "In April 2026, the American insurance holding company <a href=\"https://cybernews.com/security/kemper-insurance-data-leak-shinyhunters/\" target=\"_blank\" rel=\"noopener\">Kemper Corporation was named by the ShinyHunters ransomware group in a \"pay or leak\" extortion campaign</a>. The attackers allegedly accessed Kemper's Salesforce environment via social engineering as part of a broader campaign targeting hundreds of organisations using the same method. The group later published tens of gigabytes of data they claimed included internal directory data, Salesforce records and Stripe payment logs. Among the 269k unique email addresses were names, phone numbers, physical addresses and partial payment card data including the last 4 digits, expiry dates and card brands. Kemper confirmed the incident and stated they had engaged third-party cybersecurity experts and notified law enforcement.",
-    "AddedDate": "2026-05-28T07:22:18Z",
-    "Title": "Kemper"
+    "LogoPath": "https://logos.haveibeenpwned.com/Kemper.png"
   },
   {
     "PwnCount": 84108,
+    "AddedDate": "2026-05-27T05:17:45Z",
+    "Title": "Mytheresa",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -101,13 +103,13 @@
       "Purchases",
       "Salutations"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Mytheresa.png",
     "Description": "In April 2026, the luxury fashion e-commerce platform <a href=\"https://cybernews.com/news/shinyhunters-myteresa-zara-carnival-7eleven-data-leak/\" target=\"_blank\" rel=\"noopener\">Mytheresa was listed as a victim of the ShinyHunters \"pay or leak\" extortion group</a>. After the ransom deadline passed, the group publicly released the data which contained 84k unique email addresses. The exposed data also included names, phone numbers, physical addresses, purchases and partial credit card data including card type, last 4 digits and expiry date.",
-    "AddedDate": "2026-05-27T05:17:45Z",
-    "Title": "Mytheresa"
+    "LogoPath": "https://logos.haveibeenpwned.com/Mytheresa.png"
   },
   {
     "PwnCount": 502597,
+    "AddedDate": "2026-05-26T22:03:42Z",
+    "Title": "Ameriprise",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -117,13 +119,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Ameriprise.png",
     "Description": "In March 2026, the financial services firm <a href=\"https://cybernews.com/security/shinyhunters-ameriprise-financial-data-breach/\" target=\"_blank\" rel=\"noopener\">Ameriprise Financial was named by the ShinyHunters group in a \"pay or leak\" extortion campaign</a>. The group claimed possession of more than 200GB of compressed data exfiltrated from Ameriprise's Salesforce environment and internal SharePoint infrastructure, and subsequently published the data after negotiations allegedly failed. The published data contained 500k unique email addresses as well as names, phone numbers, physical addresses and employer information. <a href=\"https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d8179c59-c088-4bee-b3fe-ceb870a26508.html\" target=\"_blank\" rel=\"noopener\">In their disclosure to state attorneys general</a>, Ameriprise reported 47,876 affected people; the larger email address population represents contacts from Ameriprise's broader operational systems, including internal staff. Ameriprise further advised that they have \"implemented heightened monitoring of your account(s) to include enhanced identity verification procedures\".",
-    "AddedDate": "2026-05-26T22:03:42Z",
-    "Title": "Ameriprise"
+    "LogoPath": "https://logos.haveibeenpwned.com/Ameriprise.png"
   },
   {
     "PwnCount": 185256,
+    "AddedDate": "2026-05-24T05:15:22Z",
+    "Title": "7-Eleven",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -131,13 +133,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/7-Eleven.png",
     "Description": "In April 2026, <a href=\"https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/\" target=\"_blank\" rel=\"noopener\">7-Eleven was the victim of a \"pay or leak\" extortion campaign by ShinyHunters</a>, with the data later published that month. The incident exposed 185k unique email addresses, along with names, physical addresses, dates of birth and phone numbers. A small number of records also contained additional exposed data fields. The company later advised the breach was limited to \"certain 7-Eleven systems used to store franchisee documents\", a statement consistent with the exposed data.",
-    "AddedDate": "2026-05-24T05:15:22Z",
-    "Title": "7-Eleven"
+    "LogoPath": "https://logos.haveibeenpwned.com/7-Eleven.png"
   },
   {
     "PwnCount": 126293,
+    "AddedDate": "2026-05-21T04:41:32Z",
+    "Title": "Dragonica Lunaris",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -146,38 +148,38 @@
       "Spoken languages",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Dragonica.png",
     "Description": "In December 2025, <a href=\"https://playdragonica.eu/\" target=\"_blank\" rel=\"noopener\">the European Dragonica private server Dragonica Lunaris</a> suffered a data breach. The incident exposed 126k email addresses, usernames, dates of birth and bcrypt password hashes. The service operator confirmed the breach and advised it has since been fixed.",
-    "AddedDate": "2026-05-21T04:41:32Z",
-    "Title": "Dragonica Lunaris"
+    "LogoPath": "https://logos.haveibeenpwned.com/Dragonica.png"
   },
   {
     "PwnCount": 46105,
+    "AddedDate": "2026-05-21T03:45:15Z",
+    "Title": "Windows93 / Myspace93",
     "DataClasses": [
       "Email addresses",
       "IP addresses",
       "Passwords",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Windows93.png",
     "Description": "In January 2021, the parody site <a href=\"https://web.archive.org/web/20210704163048/https://www.windows93.net/dearCommunity.txt\" target=\"_blank\" rel=\"noopener\">Windows93 suffered a data breach of the Myspace93 sub-site</a> after a beta application was exploited to download server files. The compromised data was later leaked in June and included 46k Myspace93 accounts containing email and IP addresses, usernames and passwords stored in plain text.",
-    "AddedDate": "2026-05-21T03:45:15Z",
-    "Title": "Windows93 / Myspace93"
+    "LogoPath": "https://logos.haveibeenpwned.com/Windows93.png"
   },
   {
     "PwnCount": 468124,
+    "AddedDate": "2026-05-19T00:28:54Z",
+    "Title": "CTT",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Phone numbers"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/CTT.png",
     "Description": "In April 2026, <a href=\"https://x.com/DarkWebInformer/status/2048772869312622609\" target=\"_blank\" rel=\"noopener\">data allegedly obtained from CTT, Portugal's national postal service, was posted to a public hacking forum</a>. The data included 468k unique email addresses along with names, phone numbers and parcel tracking numbers which can be used to retrieve the tracking history of the parcel.",
-    "AddedDate": "2026-05-19T00:28:54Z",
-    "Title": "CTT"
+    "LogoPath": "https://logos.haveibeenpwned.com/CTT.png"
   },
   {
     "PwnCount": 34532941,
+    "AddedDate": "2026-05-18T20:55:51Z",
+    "Title": "Addi",
     "DataClasses": [
       "Age groups",
       "Credit scores",
@@ -193,13 +195,13 @@
       "Purchases",
       "Socioeconomic levels"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/ADDI.png",
     "Description": "In March 2026, the Colombian fintech company <a href=\"https://www.elcolombiano.com/negocios/addi-ciberataque-hackeo-datos-filtracion-datos-usuarios-BB35164432\" target=\"_blank\" rel=\"noopener\">Addi identified unauthorised activity on its platform</a> and advised customers that \"it is possible that your personal information may have been compromised\". The \"pay or leak\" extortion group <a href=\"https://x.com/H4ckmanac/status/2051609021690319278\" target=\"_blank\" rel=\"noopener\">ShinyHunters subsequently claimed responsibility</a> and published a large trove of personal data allegedly obtained from Addi. The data included 34M unique email addresses from credit scoring requests, credit bureau records, customer identity records and email validation logs. It also contained government issued IDs (Cédula de Ciudadanía), estimated income, socioeconomic levels, purchases and other credit-related data points.",
-    "AddedDate": "2026-05-18T20:55:51Z",
-    "Title": "Addi"
+    "LogoPath": "https://logos.haveibeenpwned.com/ADDI.png"
   },
   {
     "PwnCount": 711099,
+    "AddedDate": "2026-05-14T03:37:50Z",
+    "Title": "Abrigo",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -208,13 +210,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Abrigo.png",
     "Description": "In April 2026, the fintech software company <a href=\"https://x.com/DailyDarkWeb/status/2046928648393937001\" target=\"_blank\" rel=\"noopener\">Abrigo was targeted in a \"pay or leak\" extortion attempt by the ShinyHunters group</a>. Shortly after, data allegedly taken from the company's Salesforce instance was published publicly and contained over 700k unique email addresses belonging to both Abrigo staff and external contacts. Whilst separate from <a href=\"https://abrigo.link/duediligence/Abrigo+Response+to+Drift.pdf\" target=\"_blank\" rel=\"noopener\">Abrigo's Salesforce compromise via the Drift application connector the previous year</a>, the data fields described in that incident are consistent with the ShinyHunters data, namely that it was \"business contact information\" including \"institution name, employee name, email addresses, and phone numbers\".",
-    "AddedDate": "2026-05-14T03:37:50Z",
-    "Title": "Abrigo"
+    "LogoPath": "https://logos.haveibeenpwned.com/Abrigo.png"
   },
   {
     "PwnCount": 237810,
+    "AddedDate": "2026-05-13T06:51:17Z",
+    "Title": "Canada Life",
     "DataClasses": [
       "Email addresses",
       "Job titles",
@@ -224,13 +226,13 @@
       "Salutations",
       "Support tickets"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/CanadaLife.png",
     "Description": "In April 2026, <a href=\"https://www.scworld.com/brief/multiple-other-companies-purportedly-breached-by-shinyhunters-over-9m-record-leak-warned\" target=\"_blank\" rel=\"noopener\">Canada Life was the victim of a \"pay or leak\" extortion campaign by the ShinyHunters group</a>. The group subsequently published the data which contained over 200k unique email addresses along with names, phone numbers, physical addresses and, in some cases, customer support tickets. In <a href=\"https://www.canadalife.com/about-us/news-highlights/news/canada-life-recently-identified-a-cyber-incident.html\" target=\"_blank\" rel=\"noopener\">their disclosure notice</a>, Canada Life advised that \"it is a small proportion of our customers who may have been impacted\". In the wake of the incident, <a href=\"https://www.canadalife.com/fraud-prevention/suspicious-communications.html\" target=\"_blank\" rel=\"noopener\">Canada Life also published an alert cautioning customers to be wary of phishing attacks</a>, a pattern often seen after the public release of breached data.",
-    "AddedDate": "2026-05-13T06:51:17Z",
-    "Title": "Canada Life"
+    "LogoPath": "https://logos.haveibeenpwned.com/CanadaLife.png"
   },
   {
     "PwnCount": 310431,
+    "AddedDate": "2026-05-12T06:58:16Z",
+    "Title": "Cushman & Wakefield",
     "DataClasses": [
       "Email addresses",
       "Job titles",
@@ -239,74 +241,74 @@
       "Physical addresses",
       "Salutations"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/CushmanWakefield.png",
     "Description": "In May 2026, the real estate services firm <a href=\"https://www.theregister.com/security/2026/05/05/cushman-wakefield-confirms-vishing-cyberattack/5228718\" target=\"_blank\" rel=\"noopener\">Cushman & Wakefield was the target of a \"pay or leak\" extortion campaign by the ShinyHunters group</a>. Following the threat, the group publicly published data they alleged had been obtained from the firm, consisting mostly of C&W email addresses along with tens of thousands of external email addresses and corporate contact records. The exposed data was primarily business information, including names, job titles, company addresses and phone numbers.",
-    "AddedDate": "2026-05-12T06:58:16Z",
-    "Title": "Cushman & Wakefield"
+    "LogoPath": "https://logos.haveibeenpwned.com/CushmanWakefield.png"
   },
   {
     "PwnCount": 197376,
+    "AddedDate": "2026-05-08T07:14:22Z",
+    "Title": "Zara",
     "DataClasses": [
       "Email addresses",
       "Geographic locations",
       "Purchases",
       "Support tickets"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Zara.png",
     "Description": "In April 2026, the fashion brand <a href=\"https://hackread.com/shinyhunters-leak-udemy-zara-7-eleven-data-breach/\" target=\"_blank\" rel=\"noopener\">Zara was among a number of organisations targeted by the ShinyHunters extortion group</a> as part of their \"pay or leak\" campaign. The group claimed the breach was related to a compromise of the Anodot analytics platform and subsequently published a terabyte of data allegedly including 95M support ticket records. The data contained 197k unique email addresses alongside product SKUs, order IDs and the market the support ticket originated in. Zara's parent company <a href=\"https://ww.fashionnetwork.com/news/Inditex-flags-contractor-data-leak-says-client-records-safe,1824228.html\" target=\"_blank\" rel=\"noopener\">Inditex advised that the incident didn't affect passwords or payment information</a>.",
-    "AddedDate": "2026-05-08T07:14:22Z",
-    "Title": "Zara"
+    "LogoPath": "https://logos.haveibeenpwned.com/Zara.png"
   },
   {
     "PwnCount": 447593,
+    "AddedDate": "2026-05-07T06:48:33Z",
+    "Title": "Woflow",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Woflow.png",
     "Description": "In March 2026, the AI-driven merchant data platform <a href=\"https://cybernews.com/security/shinyhunters-claims-woflow-data-breach/\" target=\"_blank\" rel=\"noopener\">Woflow was named as a victim by the ShinyHunters data extortion group</a>. The group subsequently published tens of thousands of files allegedly obtained from the company, comprising more than 2TB of data. The trove included hundreds of thousands of email addresses, names, phone numbers and physical addresses, with the data indicating it related to Woflow customers and, in turn, the customers of merchants using their platform.",
-    "AddedDate": "2026-05-07T06:48:33Z",
-    "Title": "Woflow"
+    "LogoPath": "https://logos.haveibeenpwned.com/Woflow.png"
   },
   {
     "PwnCount": 10144,
+    "AddedDate": "2026-05-06T10:11:25Z",
+    "Title": "LegionProxy",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Passwords",
       "Purchases"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/LegionProxy.png",
     "Description": "In April 2026, the commercial residential and ISP proxy network <a href=\"https://discord.com/channels/1236697205138788462/1239163077983735828/1500601065731653763\" target=\"_blank\" rel=\"noopener\">LegionProxy suffered a data breach</a>. The incident exposed 10k email addresses, bcrypt password hashes, names and purchases.",
-    "AddedDate": "2026-05-06T10:11:25Z",
-    "Title": "LegionProxy"
+    "LogoPath": "https://logos.haveibeenpwned.com/LegionProxy.png"
   },
   {
     "PwnCount": 119167,
+    "AddedDate": "2026-05-05T02:08:50Z",
+    "Title": "Vimeo",
     "DataClasses": [
       "Email addresses",
       "Names"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Vimeo.png",
     "Description": "In April 2026, the ShinyHunters extortion group <a href=\"https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/\" target=\"_blank\" rel=\"noopener\">listed Vimeo on their extortion portal as part of their \"pay or leak\" campaign</a>. They subsequently published hundreds of gigabytes of data, predominantly consisting of video titles, technical data and metadata. The data also included 119k unique email addresses, sometimes accompanied by names. <a href=\"https://vimeo.com/blog/post/anodot-third-party-security-incident\" target=\"_blank\" rel=\"noopener\">Vimeo attributed the exposure</a> to a breach of Anodot, a third-party analytics vendor, and advised the incident <em>does not</em> include \"Vimeo video content, valid user login credentials, or payment card information\".",
-    "AddedDate": "2026-05-05T02:08:50Z",
-    "Title": "Vimeo"
+    "LogoPath": "https://logos.haveibeenpwned.com/Vimeo.png"
   },
   {
     "PwnCount": 126,
+    "AddedDate": "2026-05-04T03:43:06Z",
+    "Title": "Reborn Gaming",
     "DataClasses": [
       "Email addresses",
       "IP addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/RebornGaming.png",
     "Description": "In April 2026, the gaming community <a href=\"https://reborngaming.net/threads/6120/\" target=\"_blank\" rel=\"noopener\">Reborn Gaming suffered a data breach due to a vulnerability in cPanel and WebHost Manager (WHM)</a>. The breach exposed 126 unique email addresses along with IP addresses and Steam IDs. Reborn Gaming self-submitted the data to Have I Been Pwned.",
-    "AddedDate": "2026-05-04T03:43:06Z",
-    "Title": "Reborn Gaming"
+    "LogoPath": "https://logos.haveibeenpwned.com/RebornGaming.png"
   },
   {
     "PwnCount": 1837078,
+    "AddedDate": "2026-05-03T22:53:12Z",
+    "Title": "Marcus & Millichap",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -315,25 +317,25 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/MarcusMillichap.png",
     "Description": "In April 2026, the commercial real estate brokerage firm <a href=\"https://www.scworld.com/brief/multiple-other-companies-purportedly-breached-by-shinyhunters-over-9m-record-leak-warned\" target=\"_blank\" rel=\"noopener\">Marcus & Millichap was named as one of multiple alleged victims of the ShinyHunters hacking and extortion group</a>. Data alleged to have been obtained from the company was subsequently released publicly and included 1.8M unique email addresses, along with names, phone numbers and employment-related information including employer, job title and physical company address. In <a href=\"https://www.marcusmillichap.com/news-events/press/2026/04/marcus-millichap-releases-information-regarding-cybersecurity-incident\" target=\"_blank\" rel=\"noopener\">their disclosure notice</a>, Marcus & Millichap advised that data which may have been accessed appeared limited to \"company forms, templates, marketing materials, and general contact information\".",
-    "AddedDate": "2026-05-03T22:53:12Z",
-    "Title": "Marcus & Millichap"
+    "LogoPath": "https://logos.haveibeenpwned.com/MarcusMillichap.png"
   },
   {
     "PwnCount": 5118184,
+    "AddedDate": "2026-05-02T05:53:38Z",
+    "Title": "ZenBusiness",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Phone numbers"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/ZenBusiness.png",
     "Description": "In March 2026, <a href=\"https://cybernews.com/security/zenbusiness-shinyhunters-data-breach-mark-cuban/\" target=\"_blank\" rel=\"noopener\">the hacker and extortion group \"ShinyHunters\" claimed to have obtained a substantial corpus of data from ZenBusiness</a>, a business formation and compliance platform. The group claimed the data had been exfiltrated from platforms including Snowflake, Mixpanel and Salesforce, and threatened to publish it if a ransom was not paid. The following month, after claiming payment had not been made, ShinyHunters publicly released the data. The collection amounted to many terabytes across thousands of files that appeared to originate from multiple systems and business functions, including leads, support records and other CRM-related data. The data contained approximately 5M unique email addresses, often accompanied by name and phone number depending on the source file.",
-    "AddedDate": "2026-05-02T05:53:38Z",
-    "Title": "ZenBusiness"
+    "LogoPath": "https://logos.haveibeenpwned.com/ZenBusiness.png"
   },
   {
     "PwnCount": 215563,
+    "AddedDate": "2026-05-01T03:34:30Z",
+    "Title": "Aman",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -346,13 +348,13 @@
       "Spouses names",
       "VIP statuses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Aman.png",
     "Description": "In April 2026, the ultra-luxury hotel brand <a href=\"https://www.scworld.com/brief/multiple-other-companies-purportedly-breached-by-shinyhunters-over-9m-record-leak-warned\" target=\"_blank\" rel=\"noopener\">Aman was named by ShinyHunters as the target of a \"pay or leak\" extortion campaign</a>, with the data allegedly obtained from their Salesforce CRM. The data was subsequently leaked publicly and contained over 200k unique email addresses. Whilst not present on all records, the data also included genders, physical addresses, phone numbers, nationalities, dates of birth, spouse names and VIP status codes.",
-    "AddedDate": "2026-05-01T03:34:30Z",
-    "Title": "Aman"
+    "LogoPath": "https://logos.haveibeenpwned.com/Aman.png"
   },
   {
     "PwnCount": 8243989,
+    "AddedDate": "2026-04-27T22:52:07Z",
+    "Title": "Pitney Bowes",
     "DataClasses": [
       "Email addresses",
       "Job titles",
@@ -360,13 +362,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/PitneyBowes.png",
     "Description": "In April 2026, the hacking collective <a href=\"https://breachnews.com/breaches/shinyhunters-lists-new-victims-including-zara-7-eleven-and-pitney-bowes-in-alleged-data-release/\" target=\"_blank\" rel=\"noopener\">ShinyHunters claimed to have obtained data from Pitney Bowes</a> as part of a broader extortion campaign that also named several other organisations. After negotiations allegedly failed, the group publicly released the data which included 8.2M unique email addresses, along with names, phone numbers and physical addresses. A subset of the data also included Pitney Bowes employee records with job titles.",
-    "AddedDate": "2026-04-27T22:52:07Z",
-    "Title": "Pitney Bowes"
+    "LogoPath": "https://logos.haveibeenpwned.com/PitneyBowes.png"
   },
   {
     "PwnCount": 5488888,
+    "AddedDate": "2026-04-27T07:36:42Z",
+    "Title": "ADT",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -375,13 +377,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/ADT.png",
     "Description": "In April 2026, home security firm <a href=\"https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/\" target=\"_blank\" rel=\"noopener\">ADT confirmed a data breach by ShinyHunters</a>, which listed the company on its website as part of a \"pay or leak\" extortion attempt. The breach impacted 5.5M unique email addresses along with names, phone numbers and physical addresses. ADT also advised that \"in a small percentage of cases, dates of birth and the last four digits of Social Security numbers or Tax IDs were included\" and that it had contacted all affected people.",
-    "AddedDate": "2026-04-27T07:36:42Z",
-    "Title": "ADT"
+    "LogoPath": "https://logos.haveibeenpwned.com/ADT.png"
   },
   {
     "PwnCount": 1401259,
+    "AddedDate": "2026-04-26T23:01:50Z",
+    "Title": "Udemy",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -391,13 +393,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Udemy.png",
     "Description": "In April 2026, online training company <a href=\"https://cybernews.com/security/shinyhunters-claim-udemy-data-theft/\" target=\"_blank\" rel=\"noopener\">Udemy was the victim of a “pay or leak” extortion attempt</a> perpetrated by the ShinyHunters group. The data was subsequently leaked publicly and contained 1.4M unique email addresses belonging to customers and instructors. The data also included names, physical addresses, phone numbers, employer information and instructor payout methods including PayPal, cheque and bank transfer.",
-    "AddedDate": "2026-04-26T23:01:50Z",
-    "Title": "Udemy"
+    "LogoPath": "https://logos.haveibeenpwned.com/Udemy.png"
   },
   {
     "PwnCount": 7531359,
+    "AddedDate": "2026-04-24T01:58:19Z",
+    "Title": "Carnival",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -407,35 +409,33 @@
       "Names",
       "Salutations"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Carnival.png",
     "Description": "In April 2026, the notorious hacking collective <a href=\"https://cyberinsider.com/carnival-corporation-probes-data-breach-after-claims-of-8-7m-records-theft/\" target=\"_blank\" rel=\"noopener\">ShinyHunters claimed they had obtained a substantial volume of data belonging to the Carnival cruise operator</a> and attempted to extort the organisation to prevent the data from being leaked. The following week, the group published the data publicly, which contained 8.7M records with 7.5M unique email addresses. The data contained fields indicating it related to the Mariner Society loyalty program run by Holland America, a cruise line brand under Carnival, and included names, dates of birth, genders and data relating to status within the loyalty program. Carnival acknowledged a phishing incident involving a single user account and advised they were working to better understand the scope of the unauthorised activity.",
-    "AddedDate": "2026-04-24T01:58:19Z",
-    "Title": "Carnival"
+    "LogoPath": "https://logos.haveibeenpwned.com/Carnival.png"
   },
   {
     "PwnCount": 2147679,
+    "AddedDate": "2026-04-17T04:54:48Z",
+    "Title": "Amtrak",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Physical addresses",
       "Support tickets"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Amtrak.png",
     "Description": "In April 2026, the hacking group <a href=\"https://cybernews.com/security/hackers-threaten-amtrak-data-leak/\" target=\"_blank\" rel=\"noopener\">ShinyHunters claimed they had breached Amtrak</a>. The group typically compromises organisations' Salesforce instances before demanding a ransom and later, if not paid, dumping the data publicly. They subsequently published the alleged data which contained over 2M unique email addresses along with names, physical addresses and customer support records.",
-    "AddedDate": "2026-04-17T04:54:48Z",
-    "Title": "Amtrak"
+    "LogoPath": "https://logos.haveibeenpwned.com/Amtrak.png"
   },
   {
     "PwnCount": 13500136,
+    "AddedDate": "2026-04-16T01:31:14Z",
+    "Title": "McGraw Hill",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/McGrawHill.png",
     "Description": "In April 2026, education company <a href=\"https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/\" target=\"_blank\" rel=\"noopener\">McGraw Hill confirmed a data breach following an extortion attempt</a>. Attributed to a Salesforce misconfiguration, the company stated the incident exposed \"a limited set of data from a webpage hosted by Salesforce on its platform\". More than 100GB of data was later publicly distributed, containing 13.5M unique email addresses across multiple files, with additional fields such as name, physical address and phone number appearing inconsistently across some records.",
-    "AddedDate": "2026-04-16T01:31:14Z",
-    "Title": "McGraw Hill"
+    "LogoPath": "https://logos.haveibeenpwned.com/McGrawHill.png"
   }
 ]
