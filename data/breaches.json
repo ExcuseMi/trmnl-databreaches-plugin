@@ -1,7 +1,23 @@
 [
   {
+    "LogoPath": "https://logos.haveibeenpwned.com/BrinksHome.png",
+    "Description": "In July 2026, <a href=\"https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/\" target=\"_blank\" rel=\"noopener\">Brinks Home was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they alleged was taken from the company, including 732k unique email addresses and other personal information relating to leads, customers and Brinks staff such as name, phone numbers and physical addresses. The data also included purchases from Brinks along with partial credit card data (last 4 digits, card type and expiry). <a href=\"https://brinkshome.com/cybersecurity-update\" target=\"_blank\" rel=\"noopener\">In Brinks' disclosure notice</a>, they acknowledged the incident and risk of disclosure, and advised that they would notify impacted parties \"consistent with applicable law\".",
+    "DataClasses": [
+      "Dates of birth",
+      "Email addresses",
+      "Names",
+      "Partial credit card data",
+      "Phone numbers",
+      "Physical addresses",
+      "Purchases"
+    ],
+    "AddedDate": "2026-08-08T10:44:52Z",
+    "Title": "Brinks Home",
+    "PwnCount": 732162
+  },
+  {
     "LogoPath": "https://logos.haveibeenpwned.com/ExactSciences.png",
-    "Description": "In July 2026, <a href=\"https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/\" target=\"_blank\" rel=\"noopener\">Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group claimed to have obtained data from the company's cancer diagnostics business, which they later published publicly. The breach contained 10.9M unique email addresses belonging to customers, patients and healthcare providers, along with names, addresses, phone numbers and health records. <a href=\"https://www.abbott.com/en-us/corpnewsroom/diagnostics-testing/abbott-statement-on-cyber-incident-in-cancer-diagnostics-business\" target=\"_blank\" rel=\"noopener\">Abbott subsequently published a public notice</a> advising that \"some of the impacted files contain personal information and/or personal health information\" and that more specific information would follow once their review of the incident was complete.",
+    "Description": "In July 2026, <a href=\"https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/\" target=\"_blank\" rel=\"noopener\">Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group claimed to have obtained data from the company's cancer diagnostics business, which they later published publicly. The breach contained 10.9M unique email addresses belonging to customers, patients and healthcare providers, along with names, addresses, phone numbers and health records. <a href=\"https://www.abbott.com/en-us/corpnewsroom/diagnostics-testing/abbott-statement-on-cyber-incident-in-cancer-diagnostics-business\" target=\"_blank\" rel=\"noopener\">Abbott subsequently published a public notice</a> advising that \"some of the impacted files contain personal information and/or personal health information\" and that more specific information would follow once their review of the incident was complete. For context, Exact Sciences is the maker of the Cologuard at-home colorectal cancer screening test.",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -11,9 +27,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 10869543,
-    "AddedDate": "2026-08-07T06:17:56Z",
-    "Title": "Exact Sciences"
+    "AddedDate": "2026-08-07T06:27:29Z",
+    "Title": "Exact Sciences",
+    "PwnCount": 10869543
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/InterConSecurity.png",
@@ -26,9 +42,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 276114,
     "AddedDate": "2026-08-05T23:39:01Z",
-    "Title": "Inter-Con Security"
+    "Title": "Inter-Con Security",
+    "PwnCount": 276114
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/SplitVPN.png",
@@ -40,9 +56,9 @@
       "IP addresses",
       "Partial credit card data"
     ],
-    "PwnCount": 865336,
     "AddedDate": "2026-08-01T05:29:26Z",
-    "Title": "SplitVPN"
+    "Title": "SplitVPN",
+    "PwnCount": 865336
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/HoustonCityCollege.png",
@@ -57,9 +73,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 831642,
     "AddedDate": "2026-07-28T06:05:24Z",
-    "Title": "Houston City College"
+    "Title": "Houston City College",
+    "PwnCount": 831642
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Suno.png",
@@ -72,9 +88,9 @@
       "Physical addresses",
       "Purchases"
     ],
-    "PwnCount": 55282226,
     "AddedDate": "2026-07-20T19:49:51Z",
-    "Title": "Suno"
+    "Title": "Suno",
+    "PwnCount": 55282226
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Paidwork.png",
@@ -95,9 +111,9 @@
       "Physical addresses",
       "Profile photos"
     ],
-    "PwnCount": 23272765,
     "AddedDate": "2026-07-19T22:57:18Z",
-    "Title": "Paidwork"
+    "Title": "Paidwork",
+    "PwnCount": 23272765
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Fluke.png",
@@ -110,9 +126,9 @@
       "Physical addresses",
       "Support tickets"
     ],
-    "PwnCount": 821100,
     "AddedDate": "2026-07-15T08:01:04Z",
-    "Title": "Fluke"
+    "Title": "Fluke",
+    "PwnCount": 821100
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/GooseCreek.png",
@@ -124,9 +140,9 @@
       "Physical addresses",
       "Purchases"
     ],
-    "PwnCount": 6574121,
     "AddedDate": "2026-07-15T05:03:14Z",
-    "Title": "Goose Creek"
+    "Title": "Goose Creek",
+    "PwnCount": 6574121
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/GlendaleCommunityCollege.png",
@@ -141,9 +157,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 793925,
     "AddedDate": "2026-07-11T10:40:09Z",
-    "Title": "Glendale Community College"
+    "Title": "Glendale Community College",
+    "PwnCount": 793925
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/MoodyBibleInstitute.png",
@@ -157,9 +173,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 2303416,
     "AddedDate": "2026-07-03T16:03:25Z",
-    "Title": "Moody Bible Institute"
+    "Title": "Moody Bible Institute",
+    "PwnCount": 2303416
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Sysco.png",
@@ -174,9 +190,9 @@
       "Physical addresses",
       "Usernames"
     ],
-    "PwnCount": 2691852,
     "AddedDate": "2026-06-28T15:57:29Z",
-    "Title": "Sysco"
+    "Title": "Sysco",
+    "PwnCount": 2691852
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/AmericanTower.png",
@@ -188,9 +204,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 216601,
     "AddedDate": "2026-06-26T07:17:23Z",
-    "Title": "American Tower"
+    "Title": "American Tower",
+    "PwnCount": 216601
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/MadisonSquareGardenSports.png",
@@ -202,9 +218,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 9796738,
     "AddedDate": "2026-06-24T13:02:33Z",
-    "Title": "Madison Square Garden Sports"
+    "Title": "Madison Square Garden Sports",
+    "PwnCount": 9796738
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/JCPenney.png",
@@ -219,9 +235,9 @@
       "Physical addresses",
       "Usernames"
     ],
-    "PwnCount": 368418,
     "AddedDate": "2026-06-20T03:02:45Z",
-    "Title": "JCPenney"
+    "Title": "JCPenney",
+    "PwnCount": 368418
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/RalphLauren.png",
@@ -233,9 +249,9 @@
       "Names",
       "Phone numbers"
     ],
-    "PwnCount": 139903,
     "AddedDate": "2026-06-18T22:48:34Z",
-    "Title": "Ralph Lauren"
+    "Title": "Ralph Lauren",
+    "PwnCount": 139903
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/List.png",
@@ -244,9 +260,9 @@
       "Email addresses",
       "Passwords"
     ],
-    "PwnCount": 4348526,
     "AddedDate": "2026-06-18T20:08:06Z",
-    "Title": "Operation Endgame 4.0"
+    "Title": "Operation Endgame 4.0",
+    "PwnCount": 4348526
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/CFGI.png",
@@ -259,9 +275,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 248235,
     "AddedDate": "2026-06-18T03:22:51Z",
-    "Title": "CFGI"
+    "Title": "CFGI",
+    "PwnCount": 248235
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/List.png",
@@ -270,9 +286,9 @@
       "Email addresses",
       "Passwords"
     ],
-    "PwnCount": 56278397,
     "AddedDate": "2026-06-15T19:30:15Z",
-    "Title": "June 2026 Stealer Logs"
+    "Title": "June 2026 Stealer Logs",
+    "PwnCount": 56278397
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Berkadia.png",
@@ -284,9 +300,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 305216,
     "AddedDate": "2026-06-15T04:09:04Z",
-    "Title": "Berkadia"
+    "Title": "Berkadia",
+    "PwnCount": 305216
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/InfiniteCampus.png",
@@ -301,9 +317,9 @@
       "Support tickets",
       "Usernames"
     ],
-    "PwnCount": 137123,
     "AddedDate": "2026-06-15T01:03:42Z",
-    "Title": "Infinite Campus"
+    "Title": "Infinite Campus",
+    "PwnCount": 137123
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/UniversityOfNottingham.png",
@@ -325,9 +341,9 @@
       "Salutations",
       "Usernames"
     ],
-    "PwnCount": 454635,
     "AddedDate": "2026-06-10T22:13:31Z",
-    "Title": "University of Nottingham"
+    "Title": "University of Nottingham",
+    "PwnCount": 454635
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/BakerDistributing.png",
@@ -339,9 +355,9 @@
       "Physical addresses",
       "Support tickets"
     ],
-    "PwnCount": 102935,
     "AddedDate": "2026-06-07T06:16:36Z",
-    "Title": "Baker Distributing"
+    "Title": "Baker Distributing",
+    "PwnCount": 102935
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/BCDTravel.png",
@@ -355,9 +371,9 @@
       "Physical addresses",
       "Support tickets"
     ],
-    "PwnCount": 396313,
     "AddedDate": "2026-06-05T06:53:15Z",
-    "Title": "BCD Travel"
+    "Title": "BCD Travel",
+    "PwnCount": 396313
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/DentaQuest.png",
@@ -372,9 +388,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 2553599,
     "AddedDate": "2026-06-03T22:56:30Z",
-    "Title": "DentaQuest"
+    "Title": "DentaQuest",
+    "PwnCount": 2553599
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Edmunds.png",
@@ -387,9 +403,9 @@
       "Phone numbers",
       "Usernames"
     ],
-    "PwnCount": 177860,
     "AddedDate": "2026-06-01T07:39:02Z",
-    "Title": "Edmunds"
+    "Title": "Edmunds",
+    "PwnCount": 177860
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/AtlasMenu.png",
@@ -401,9 +417,9 @@
       "Support tickets",
       "Usernames"
     ],
-    "PwnCount": 63926,
     "AddedDate": "2026-05-30T23:35:29Z",
-    "Title": "Atlas Menu"
+    "Title": "Atlas Menu",
+    "PwnCount": 63926
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Charter.png",
@@ -415,9 +431,9 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "PwnCount": 4851517,
     "AddedDate": "2026-05-28T20:00:34Z",
-    "Title": "Charter"
+    "Title": "Charter",
+    "PwnCount": 4851517
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Kemper.png",
@@ -430,9 +446,9 @@
       "Physical addresses",
       "Purchases"
     ],
-    "PwnCount": 269299,
     "AddedDate": "2026-05-28T07:22:18Z",
-    "Title": "Kemper"
+    "Title": "Kemper",
+    "PwnCount": 269299
   },
   {
     "LogoPath": "https://logos.haveibeenpwned.com/Mytheresa.png",
@@ -446,24 +462,8 @@
       "Purchases",
       "Salutations"
     ],
-    "PwnCount": 84108,
     "AddedDate": "2026-05-27T05:17:45Z",
-    "Title": "Mytheresa"
-  },
-  {
-    "LogoPath": "https://logos.haveibeenpwned.com/Ameriprise.png",
-    "Description": "In March 2026, the financial services firm <a href=\"https://cybernews.com/security/shinyhunters-ameriprise-financial-data-breach/\" target=\"_blank\" rel=\"noopener\">Ameriprise Financial was named by the ShinyHunters group in a \"pay or leak\" extortion campaign</a>. The group claimed possession of more than 200GB of compressed data exfiltrated from Ameriprise's Salesforce environment and internal SharePoint infrastructure, and subsequently published the data after negotiations allegedly failed. The published data contained 500k unique email addresses as well as names, phone numbers, physical addresses and employer information. <a href=\"https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d8179c59-c088-4bee-b3fe-ceb870a26508.html\" target=\"_blank\" rel=\"noopener\">In their disclosure to state attorneys general</a>, Ameriprise reported 47,876 affected people; the larger email address population represents contacts from Ameriprise's broader operational systems, including internal staff. Ameriprise further advised that they have \"implemented heightened monitoring of your account(s) to include enhanced identity verification procedures\".",
-    "DataClasses": [
-      "Email addresses",
-      "Employers",
-      "Financial transactions",
-      "Job titles",
-      "Names",
-      "Phone numbers",
-      "Physical addresses"
-    ],
-    "PwnCount": 502597,
-    "AddedDate": "2026-05-26T22:03:42Z",
-    "Title": "Ameriprise"
+    "Title": "Mytheresa",
+    "PwnCount": 84108
   }
 ]
