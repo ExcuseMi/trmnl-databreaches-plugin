@@ -1,21 +1,21 @@
 [
   {
+    "PwnCount": 12933413,
     "AddedDate": "2026-08-25T21:34:25Z",
-    "Description": "In August 2026, clothing retailer <a href=\"https://cybernews.com/news/carhartt-data-breach-shinyhunters-millions-customer-records/\" target=\"_blank\" rel=\"noopener\">Carhartt was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data allegedly obtained from the company including 12.9M unique email addresses, names, phone numbers and physical addresses. The published corpus also contained <a href=\"https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt\" target=\"_blank\" rel=\"noopener\">millions of synthetic records that did not relate to real individuals</a> and were excluded from the breach.",
-    "Title": "Carhartt",
+    "LogoPath": "https://logos.haveibeenpwned.com/Carhartt.png",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Carhartt.png",
-    "PwnCount": 12933413
+    "Title": "Carhartt",
+    "Description": "In August 2026, clothing retailer <a href=\"https://cybernews.com/news/carhartt-data-breach-shinyhunters-millions-customer-records/\" target=\"_blank\" rel=\"noopener\">Carhartt was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data allegedly obtained from the company including 12.9M unique email addresses, names, phone numbers and physical addresses. The published corpus also contained <a href=\"https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt\" target=\"_blank\" rel=\"noopener\">millions of synthetic records that did not relate to real individuals</a> and were excluded from the breach."
   },
   {
+    "PwnCount": 6090,
     "AddedDate": "2026-08-23T22:25:44Z",
-    "Description": "In July 2025, the German news service <a href=\"https://www.heise.de/en/news/Nius-data-leak-Stolen-data-is-genuine-10489398.html\" target=\"_blank\" rel=\"noopener\">NIUS suffered a data breach which was subsequently leaked publicly</a>. The data included 6k unique email addresses along with names, physical addresses and payment details for purchases including either IBANs or partial credit card data (masked card number, type and expiry).",
-    "Title": "NIUS",
+    "LogoPath": "https://logos.haveibeenpwned.com/NIUS.png",
     "DataClasses": [
       "Bank account numbers",
       "Email addresses",
@@ -24,13 +24,13 @@
       "Physical addresses",
       "Purchases"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/NIUS.png",
-    "PwnCount": 6090
+    "Title": "NIUS",
+    "Description": "In July 2025, the German news service <a href=\"https://www.heise.de/en/news/Nius-data-leak-Stolen-data-is-genuine-10489398.html\" target=\"_blank\" rel=\"noopener\">NIUS suffered a data breach which was subsequently leaked publicly</a>. The data included 6k unique email addresses along with names, physical addresses and payment details for purchases including either IBANs or partial credit card data (masked card number, type and expiry)."
   },
   {
+    "PwnCount": 568972,
     "AddedDate": "2026-08-22T07:17:23Z",
-    "Description": "In mid-2026, hundreds of thousands of user records allegedly sourced from Golf Canada began circulating via Telegram. The data included 569k unique email addresses along with names, usernames, dates of birth, genders and approximate geographic locations (city, province and postcode). Golf Canada didn't respond to multiple attempts to make contact, and it remains unclear whether the data was obtained via unintentionally exposed website features or a security vulnerability.",
-    "Title": "Golf Canada",
+    "LogoPath": "https://logos.haveibeenpwned.com/GolfCanada.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -39,13 +39,13 @@
       "Names",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/GolfCanada.png",
-    "PwnCount": 568972
+    "Title": "Golf Canada",
+    "Description": "In mid-2026, hundreds of thousands of user records allegedly sourced from Golf Canada began circulating via Telegram. The data included 569k unique email addresses along with names, usernames, dates of birth, genders and approximate geographic locations (city, province and postcode). Golf Canada didn't respond to multiple attempts to make contact, and it remains unclear whether the data was obtained via unintentionally exposed website features or a security vulnerability."
   },
   {
+    "PwnCount": 1988331,
     "AddedDate": "2026-08-19T03:15:00Z",
-    "Description": "In August 2026, Australian beauty retailer <a href=\"https://www.cyberdaily.au/security/14061-exclusive-oz-hair-and-beauty-confirms-cyber-incident\" target=\"_blank\" rel=\"noopener\">Oz Hair and Beauty was the target of an xpl0itrs extortion attack</a>. The group subsequently published data allegedly obtained from the company, which included 2M unique email addresses along with names, phone numbers, geographic locations (suburb and postcode) and purchases.",
-    "Title": "Oz Hair and Beauty",
+    "LogoPath": "https://logos.haveibeenpwned.com/OzHairAndBeauty.png",
     "DataClasses": [
       "Email addresses",
       "Geographic locations",
@@ -53,52 +53,52 @@
       "Phone numbers",
       "Purchases"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/OzHairAndBeauty.png",
-    "PwnCount": 1988331
+    "Title": "Oz Hair and Beauty",
+    "Description": "In August 2026, Australian beauty retailer <a href=\"https://www.cyberdaily.au/security/14061-exclusive-oz-hair-and-beauty-confirms-cyber-incident\" target=\"_blank\" rel=\"noopener\">Oz Hair and Beauty was the target of an xpl0itrs extortion attack</a>. The group subsequently published data allegedly obtained from the company, which included 2M unique email addresses along with names, phone numbers, geographic locations (suburb and postcode) and purchases."
   },
   {
+    "PwnCount": 144520,
     "AddedDate": "2026-08-19T02:09:16Z",
-    "Description": "In August 2026, the Organization for Transformative Works (OTW) <a href=\"https://www.transformativeworks.org/fanlore-security-incident/\" target=\"_blank\" rel=\"noopener\">identified unauthorised access to the Fanlore wiki it operates</a>. The breach resulted in the exposure of 145k unique email addresses along with usernames and passwords stored as either MD5 or PBKDF2 hashes. OTW self-submitted the exposed data to HIBP.",
-    "Title": "Fanlore",
+    "LogoPath": "https://logos.haveibeenpwned.com/Fanlore.png",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Passwords",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Fanlore.png",
-    "PwnCount": 144520
+    "Title": "Fanlore",
+    "Description": "In August 2026, the Organization for Transformative Works (OTW) <a href=\"https://www.transformativeworks.org/fanlore-security-incident/\" target=\"_blank\" rel=\"noopener\">identified unauthorised access to the Fanlore wiki it operates</a>. The breach resulted in the exposure of 145k unique email addresses along with usernames and passwords stored as either MD5 or PBKDF2 hashes. OTW self-submitted the exposed data to HIBP."
   },
   {
+    "PwnCount": 1596490,
     "AddedDate": "2026-08-13T10:54:40Z",
-    "Description": "In July 2026, the cloud-based business communications platform <a href=\"https://x.com/AlvieriD/status/2084262989448749447\" target=\"_blank\" rel=\"noopener\">RingCentral was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they claimed was obtained from the platform, which included 1.6M unique email addresses along with names, physical addresses and phone numbers. <a href=\"https://www.ringcentral.com/trust-center/security-bulletin.html\" target=\"_blank\" rel=\"noopener\">In their disclosure notice</a>, RingCentral advised that the incident affected \"a limited portion of RingCentral customers\" and that it was communicating directly with those affected.",
-    "Title": "RingCentral",
-    "DataClasses": [
-      "Email addresses",
-      "Names",
-      "Phone numbers",
-      "Physical addresses"
-    ],
     "LogoPath": "https://logos.haveibeenpwned.com/RingCentral.png",
-    "PwnCount": 1596490
-  },
-  {
-    "AddedDate": "2026-08-09T10:04:34Z",
-    "Description": "In August 2026, <a href=\"https://x.com/h4ckmanac/status/2084157760933949852\" target=\"_blank\" rel=\"noopener\">the Alcon eye care company was named in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data allegedly sourced from Alcon containing 218k unique email addresses along with other largely corporate B2B contact fields, including name, phone number and physical address.",
-    "Title": "Alcon",
     "DataClasses": [
       "Email addresses",
       "Names",
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Alcon.png",
-    "PwnCount": 218395
+    "Title": "RingCentral",
+    "Description": "In July 2026, the cloud-based business communications platform <a href=\"https://x.com/AlvieriD/status/2084262989448749447\" target=\"_blank\" rel=\"noopener\">RingCentral was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they claimed was obtained from the platform, which included 1.6M unique email addresses along with names, physical addresses and phone numbers. <a href=\"https://www.ringcentral.com/trust-center/security-bulletin.html\" target=\"_blank\" rel=\"noopener\">In their disclosure notice</a>, RingCentral advised that the incident affected \"a limited portion of RingCentral customers\" and that it was communicating directly with those affected."
   },
   {
+    "PwnCount": 218395,
+    "AddedDate": "2026-08-09T10:04:34Z",
+    "LogoPath": "https://logos.haveibeenpwned.com/Alcon.png",
+    "DataClasses": [
+      "Email addresses",
+      "Names",
+      "Phone numbers",
+      "Physical addresses"
+    ],
+    "Title": "Alcon",
+    "Description": "In August 2026, <a href=\"https://x.com/h4ckmanac/status/2084157760933949852\" target=\"_blank\" rel=\"noopener\">the Alcon eye care company was named in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data allegedly sourced from Alcon containing 218k unique email addresses along with other largely corporate B2B contact fields, including name, phone number and physical address."
+  },
+  {
+    "PwnCount": 732162,
     "AddedDate": "2026-08-08T10:44:52Z",
-    "Description": "In July 2026, <a href=\"https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/\" target=\"_blank\" rel=\"noopener\">Brinks Home was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they alleged was taken from the company, including 732k unique email addresses and other personal information relating to leads, customers and Brinks staff such as name, phone numbers and physical addresses. The data also included purchases from Brinks along with partial credit card data (last 4 digits, card type and expiry). <a href=\"https://brinkshome.com/cybersecurity-update\" target=\"_blank\" rel=\"noopener\">In Brinks' disclosure notice</a>, they acknowledged the incident and risk of disclosure, and advised that they would notify impacted parties \"consistent with applicable law\".",
-    "Title": "Brinks Home",
+    "LogoPath": "https://logos.haveibeenpwned.com/BrinksHome.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -108,13 +108,13 @@
       "Physical addresses",
       "Purchases"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/BrinksHome.png",
-    "PwnCount": 732162
+    "Title": "Brinks Home",
+    "Description": "In July 2026, <a href=\"https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/\" target=\"_blank\" rel=\"noopener\">Brinks Home was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they alleged was taken from the company, including 732k unique email addresses and other personal information relating to leads, customers and Brinks staff such as name, phone numbers and physical addresses. The data also included purchases from Brinks along with partial credit card data (last 4 digits, card type and expiry). <a href=\"https://brinkshome.com/cybersecurity-update\" target=\"_blank\" rel=\"noopener\">In Brinks' disclosure notice</a>, they acknowledged the incident and risk of disclosure, and advised that they would notify impacted parties \"consistent with applicable law\"."
   },
   {
+    "PwnCount": 10869543,
     "AddedDate": "2026-08-07T06:27:29Z",
-    "Description": "In July 2026, <a href=\"https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/\" target=\"_blank\" rel=\"noopener\">Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group claimed to have obtained data from the company's cancer diagnostics business, which they later published publicly. The breach contained 10.9M unique email addresses belonging to customers, patients and healthcare providers, along with names, addresses, phone numbers and health records. <a href=\"https://www.abbott.com/en-us/corpnewsroom/diagnostics-testing/abbott-statement-on-cyber-incident-in-cancer-diagnostics-business\" target=\"_blank\" rel=\"noopener\">Abbott subsequently published a public notice</a> advising that \"some of the impacted files contain personal information and/or personal health information\" and that more specific information would follow once their review of the incident was complete. For context, Exact Sciences is the maker of the Cologuard at-home colorectal cancer screening test.",
-    "Title": "Exact Sciences",
+    "LogoPath": "https://logos.haveibeenpwned.com/ExactSciences.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -124,13 +124,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/ExactSciences.png",
-    "PwnCount": 10869543
+    "Title": "Exact Sciences",
+    "Description": "In July 2026, <a href=\"https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/\" target=\"_blank\" rel=\"noopener\">Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group claimed to have obtained data from the company's cancer diagnostics business, which they later published publicly. The breach contained 10.9M unique email addresses belonging to customers, patients and healthcare providers, along with names, addresses, phone numbers and health records. <a href=\"https://www.abbott.com/en-us/corpnewsroom/diagnostics-testing/abbott-statement-on-cyber-incident-in-cancer-diagnostics-business\" target=\"_blank\" rel=\"noopener\">Abbott subsequently published a public notice</a> advising that \"some of the impacted files contain personal information and/or personal health information\" and that more specific information would follow once their review of the incident was complete. For context, Exact Sciences is the maker of the Cologuard at-home colorectal cancer screening test."
   },
   {
+    "PwnCount": 276114,
     "AddedDate": "2026-08-05T23:39:01Z",
-    "Description": "In June 2026, <a href=\"https://x.com/DarkWebInformer/status/2069536119545540871\" target=\"_blank\" rel=\"noopener\">Inter-Con Security was targeted in a ShinyHunters “pay or leak” extortion campaign</a>. The group subsequently published data it alleged was taken from the company, including 276k unique email addresses along with names, physical addresses, job titles and phone numbers. The data encompassed a combination of contacts, internal users and leads.",
-    "Title": "Inter-Con Security",
+    "LogoPath": "https://logos.haveibeenpwned.com/InterConSecurity.png",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -139,13 +139,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/InterConSecurity.png",
-    "PwnCount": 276114
+    "Title": "Inter-Con Security",
+    "Description": "In June 2026, <a href=\"https://x.com/DarkWebInformer/status/2069536119545540871\" target=\"_blank\" rel=\"noopener\">Inter-Con Security was targeted in a ShinyHunters “pay or leak” extortion campaign</a>. The group subsequently published data it alleged was taken from the company, including 276k unique email addresses along with names, physical addresses, job titles and phone numbers. The data encompassed a combination of contacts, internal users and leads."
   },
   {
+    "PwnCount": 865336,
     "AddedDate": "2026-08-01T05:29:26Z",
-    "Description": "In July 2026, <a href=\"https://securityaffairs.com/196197/security/vpn-breach-exposes-58-million-connection-logs-despite-no-logs-claims.html\" target=\"_blank\" rel=\"noopener\">the Russian VPN service SplitVPN (previously known as NotVPN) suffered a data breach</a>. The incident exposed millions of customer records, including 865k unique email addresses. Other impacted data included IP addresses, the user's country, and partial payment card data (first 6 and last 4 digits plus expiry date).",
-    "Title": "SplitVPN",
+    "LogoPath": "https://logos.haveibeenpwned.com/SplitVPN.png",
     "DataClasses": [
       "Device information",
       "Email addresses",
@@ -153,13 +153,13 @@
       "IP addresses",
       "Partial credit card data"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/SplitVPN.png",
-    "PwnCount": 865336
+    "Title": "SplitVPN",
+    "Description": "In July 2026, <a href=\"https://securityaffairs.com/196197/security/vpn-breach-exposes-58-million-connection-logs-despite-no-logs-claims.html\" target=\"_blank\" rel=\"noopener\">the Russian VPN service SplitVPN (previously known as NotVPN) suffered a data breach</a>. The incident exposed millions of customer records, including 865k unique email addresses. Other impacted data included IP addresses, the user's country, and partial payment card data (first 6 and last 4 digits plus expiry date)."
   },
   {
+    "PwnCount": 831642,
     "AddedDate": "2026-07-28T06:05:24Z",
-    "Description": "In June 2026, <a href=\"https://securityaffairs.com/193777/data-breach/edtech-faces-a-cybersecurity-crisis-data-breaches-surge.html\" target=\"_blank\" rel=\"noopener\">Houston City College was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. Data allegedly obtained from the college was later published publicly and included 832k unique email addresses along with names, addresses, phone numbers, academic records, and other personal information relating to both current students and alumni.",
-    "Title": "Houston City College",
+    "LogoPath": "https://logos.haveibeenpwned.com/HoustonCityCollege.png",
     "DataClasses": [
       "Academic records",
       "Citizenship statuses",
@@ -170,13 +170,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/HoustonCityCollege.png",
-    "PwnCount": 831642
+    "Title": "Houston City College",
+    "Description": "In June 2026, <a href=\"https://securityaffairs.com/193777/data-breach/edtech-faces-a-cybersecurity-crisis-data-breaches-surge.html\" target=\"_blank\" rel=\"noopener\">Houston City College was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. Data allegedly obtained from the college was later published publicly and included 832k unique email addresses along with names, addresses, phone numbers, academic records, and other personal information relating to both current students and alumni."
   },
   {
+    "PwnCount": 55282226,
     "AddedDate": "2026-07-20T19:49:51Z",
-    "Description": "In November 2025, <a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\" target=\"_blank\" rel=\"noopener\">AI music generation tool Suno suffered a data breach that later came to light in July the following year</a>. The data contained over 55M unique email addresses. Phone numbers were also present where they had been used as the sign-up method. Although representing a small portion of the corpus, the breach also included tens of thousands of Stripe records relating to purchases, containing names, physical addresses, purchase amounts and partial credit card data including the card type, expiry date and last 4 digits. The company advised that \"Suno does not have access to customers' full credit card numbers in Stripe\".",
-    "Title": "Suno",
+    "LogoPath": "https://logos.haveibeenpwned.com/Suno.png",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -185,13 +185,13 @@
       "Physical addresses",
       "Purchases"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Suno.png",
-    "PwnCount": 55282226
+    "Title": "Suno",
+    "Description": "In November 2025, <a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\" target=\"_blank\" rel=\"noopener\">AI music generation tool Suno suffered a data breach that later came to light in July the following year</a>. The data contained over 55M unique email addresses. Phone numbers were also present where they had been used as the sign-up method. Although representing a small portion of the corpus, the breach also included tens of thousands of Stripe records relating to purchases, containing names, physical addresses, purchase amounts and partial credit card data including the card type, expiry date and last 4 digits. The company advised that \"Suno does not have access to customers' full credit card numbers in Stripe\"."
   },
   {
+    "PwnCount": 23272765,
     "AddedDate": "2026-07-19T22:57:18Z",
-    "Description": "In March 2026, <a href=\"https://cybernews.com/security/paidwork-data-breach-22-million-users/\" target=\"_blank\" rel=\"noopener\">hackers claimed they had obtained data from the gig economy platform Paidwork which they then listed for sale</a>. Almost 11GB of data allegedly obtained from the platform was subsequently <a href=\"https://x.com/dailydarkweb/status/2078527237809131674?s=61&t=beHN95Zd9G3fQiuO1h_jzA\" target=\"_blank\" rel=\"noopener\">posted publicly in July</a> and contained over 23M unique email addresses. The breach also included a broad range of other data relating to the operation of the platform including user profile data, banking information, payout history for workers and passwords stored as bcrypt hashes.",
-    "Title": "Paidwork",
+    "LogoPath": "https://logos.haveibeenpwned.com/Paidwork.png",
     "DataClasses": [
       "Bank account numbers",
       "Dates of birth",
@@ -208,13 +208,13 @@
       "Physical addresses",
       "Profile photos"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Paidwork.png",
-    "PwnCount": 23272765
+    "Title": "Paidwork",
+    "Description": "In March 2026, <a href=\"https://cybernews.com/security/paidwork-data-breach-22-million-users/\" target=\"_blank\" rel=\"noopener\">hackers claimed they had obtained data from the gig economy platform Paidwork which they then listed for sale</a>. Almost 11GB of data allegedly obtained from the platform was subsequently <a href=\"https://x.com/dailydarkweb/status/2078527237809131674?s=61&t=beHN95Zd9G3fQiuO1h_jzA\" target=\"_blank\" rel=\"noopener\">posted publicly in July</a> and contained over 23M unique email addresses. The breach also included a broad range of other data relating to the operation of the platform including user profile data, banking information, payout history for workers and passwords stored as bcrypt hashes."
   },
   {
+    "PwnCount": 821100,
     "AddedDate": "2026-07-15T08:01:04Z",
-    "Description": "In July 2026, electronic test and measurement equipment company <a href=\"https://breachnews.com/breaches/shinyhunters-adds-ingram-content-group-and-fluke-corporation-to-leak-site/\" target=\"_blank\" rel=\"noopener\">Fluke was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published more than 100GB of data allegedly taken from the company. The corpus contained largely corporate contact information, including over 800k unique email addresses, names, phone numbers and physical addresses. A large collection of support cases was also present.",
-    "Title": "Fluke",
+    "LogoPath": "https://logos.haveibeenpwned.com/Fluke.png",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -223,13 +223,13 @@
       "Physical addresses",
       "Support tickets"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Fluke.png",
-    "PwnCount": 821100
+    "Title": "Fluke",
+    "Description": "In July 2026, electronic test and measurement equipment company <a href=\"https://breachnews.com/breaches/shinyhunters-adds-ingram-content-group-and-fluke-corporation-to-leak-site/\" target=\"_blank\" rel=\"noopener\">Fluke was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published more than 100GB of data allegedly taken from the company. The corpus contained largely corporate contact information, including over 800k unique email addresses, names, phone numbers and physical addresses. A large collection of support cases was also present."
   },
   {
+    "PwnCount": 6574121,
     "AddedDate": "2026-07-15T05:03:14Z",
-    "Description": "In June 2026, <a href=\"https://www.reddit.com/r/goosecreekcandles/comments/1u1dulr/data_breach_email/\" target=\"_blank\" rel=\"noopener\">a party claiming to have access to data from Goose Creek Candle Company sent emails to a number of the company's customers</a>, claiming the company had a security vulnerability and suffered a data breach. The data was subsequently sent to Have I Been Pwned and contained 6.6M unique email addresses along with names, phone numbers, physical addresses, order IDs and total spent. The data appears to have been obtained from the company's Shopify instance. Goose Creek is aware of the reports but was unable to provide Have I Been Pwned with any further information at the time of publication.",
-    "Title": "Goose Creek",
+    "LogoPath": "https://logos.haveibeenpwned.com/GooseCreek.png",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -237,13 +237,13 @@
       "Physical addresses",
       "Purchases"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/GooseCreek.png",
-    "PwnCount": 6574121
+    "Title": "Goose Creek",
+    "Description": "In June 2026, <a href=\"https://www.reddit.com/r/goosecreekcandles/comments/1u1dulr/data_breach_email/\" target=\"_blank\" rel=\"noopener\">a party claiming to have access to data from Goose Creek Candle Company sent emails to a number of the company's customers</a>, claiming the company had a security vulnerability and suffered a data breach. The data was subsequently sent to Have I Been Pwned and contained 6.6M unique email addresses along with names, phone numbers, physical addresses, order IDs and total spent. The data appears to have been obtained from the company's Shopify instance. Goose Creek is aware of the reports but was unable to provide Have I Been Pwned with any further information at the time of publication."
   },
   {
+    "PwnCount": 793925,
     "AddedDate": "2026-07-11T10:40:09Z",
-    "Description": "In June 2026, <a href=\"https://x.com/DarkWebInformer/status/2066611727106715692\" target=\"_blank\" rel=\"noopener\">Glendale Community College was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. Data allegedly obtained from Glendale was later published online and included almost 800k unique email addresses along with various other data fields, including names, addresses, phone numbers, Social Security numbers and other information relating to student enrolments. <a href=\"https://glendale.edu/about-gcc/communications/update/\" target=\"_blank\" rel=\"noopener\">In its disclosure notice</a>, the college advised that \"the potentially impacted information may vary for each individual and may include all or just one of the above-listed types of information\".",
-    "Title": "Glendale Community College",
+    "LogoPath": "https://logos.haveibeenpwned.com/GlendaleCommunityCollege.png",
     "DataClasses": [
       "Academic records",
       "Dates of birth",
@@ -254,13 +254,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/GlendaleCommunityCollege.png",
-    "PwnCount": 793925
+    "Title": "Glendale Community College",
+    "Description": "In June 2026, <a href=\"https://x.com/DarkWebInformer/status/2066611727106715692\" target=\"_blank\" rel=\"noopener\">Glendale Community College was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. Data allegedly obtained from Glendale was later published online and included almost 800k unique email addresses along with various other data fields, including names, addresses, phone numbers, Social Security numbers and other information relating to student enrolments. <a href=\"https://glendale.edu/about-gcc/communications/update/\" target=\"_blank\" rel=\"noopener\">In its disclosure notice</a>, the college advised that \"the potentially impacted information may vary for each individual and may include all or just one of the above-listed types of information\"."
   },
   {
+    "PwnCount": 2303416,
     "AddedDate": "2026-07-03T16:03:25Z",
-    "Description": "In June 2026, <a href=\"https://cyberinsider.com/moody-bible-institute-investigates-potential-data-breach-incident/\" target=\"_blank\" rel=\"noopener\">Moody Bible Institute was targeted by a ShinyHunters \"pay or leak\" extortion campaign</a>. Over 2.3M unique email addresses and other personal data were later published publicly, including names, physical addresses, phone numbers, dates of birth and other information relating to donors, supporters, students and alumni. <a href=\"https://www.moodybible.org/news/2026/data-investigation/\" target=\"_blank\" rel=\"noopener\">In their disclosure notice</a>, Moody advised that they had \"engaged both internal and external cybersecurity experts to thoroughly investigate the matter\".",
-    "Title": "Moody Bible Institute",
+    "LogoPath": "https://logos.haveibeenpwned.com/MoodyBibleInstitute.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -270,13 +270,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/MoodyBibleInstitute.png",
-    "PwnCount": 2303416
+    "Title": "Moody Bible Institute",
+    "Description": "In June 2026, <a href=\"https://cyberinsider.com/moody-bible-institute-investigates-potential-data-breach-incident/\" target=\"_blank\" rel=\"noopener\">Moody Bible Institute was targeted by a ShinyHunters \"pay or leak\" extortion campaign</a>. Over 2.3M unique email addresses and other personal data were later published publicly, including names, physical addresses, phone numbers, dates of birth and other information relating to donors, supporters, students and alumni. <a href=\"https://www.moodybible.org/news/2026/data-investigation/\" target=\"_blank\" rel=\"noopener\">In their disclosure notice</a>, Moody advised that they had \"engaged both internal and external cybersecurity experts to thoroughly investigate the matter\"."
   },
   {
+    "PwnCount": 2691852,
     "AddedDate": "2026-06-28T15:57:29Z",
-    "Description": "In June 2026, the food distribution company <a href=\"https://cybernews.com/news/sysco-shinyhunters-61-million-salesforce-records/\" target=\"_blank\" rel=\"noopener\">Sysco was targeted by a ShinyHunters \"pay or leak\" extortion campaign</a>. Data was subsequently published containing 2.7M unique email addresses belonging to staff and customers. The data also contained largely corporate contact information including names, phone numbers, physical addresses, internal job titles, and customer feedback.",
-    "Title": "Sysco",
+    "LogoPath": "https://logos.haveibeenpwned.com/Sysco.png",
     "DataClasses": [
       "Customer feedback",
       "Email addresses",
@@ -287,13 +287,13 @@
       "Physical addresses",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Sysco.png",
-    "PwnCount": 2691852
+    "Title": "Sysco",
+    "Description": "In June 2026, the food distribution company <a href=\"https://cybernews.com/news/sysco-shinyhunters-61-million-salesforce-records/\" target=\"_blank\" rel=\"noopener\">Sysco was targeted by a ShinyHunters \"pay or leak\" extortion campaign</a>. Data was subsequently published containing 2.7M unique email addresses belonging to staff and customers. The data also contained largely corporate contact information including names, phone numbers, physical addresses, internal job titles, and customer feedback."
   },
   {
+    "PwnCount": 216601,
     "AddedDate": "2026-06-26T07:17:23Z",
-    "Description": "In June 2026, telecommunications tower infrastructure company <a href=\"https://x.com/H4ckmanac/status/2065383723739046213\" target=\"_blank\" rel=\"noopener\">American Tower was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data allegedly taken from the company containing more than 200k unique email addresses belonging to employees, contractors, customers, and leads. Exposed data also included names, addresses, and phone numbers.",
-    "Title": "American Tower",
+    "LogoPath": "https://logos.haveibeenpwned.com/AmericanTower.png",
     "DataClasses": [
       "Email addresses",
       "Job titles",
@@ -301,13 +301,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/AmericanTower.png",
-    "PwnCount": 216601
+    "Title": "American Tower",
+    "Description": "In June 2026, telecommunications tower infrastructure company <a href=\"https://x.com/H4ckmanac/status/2065383723739046213\" target=\"_blank\" rel=\"noopener\">American Tower was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data allegedly taken from the company containing more than 200k unique email addresses belonging to employees, contractors, customers, and leads. Exposed data also included names, addresses, and phone numbers."
   },
   {
+    "PwnCount": 9796738,
     "AddedDate": "2026-06-24T13:02:33Z",
-    "Description": "In June 2026, the sports and entertainment company <a href=\"https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/\" target=\"_blank\" rel=\"noopener\">Madison Square Garden Sports was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group later published the alleged data, which included almost 10M unique email addresses spanning staff and customers, along with extensive personal, employment and customer relationship information.",
-    "Title": "Madison Square Garden Sports",
+    "LogoPath": "https://logos.haveibeenpwned.com/MadisonSquareGardenSports.png",
     "DataClasses": [
       "Customer service records",
       "Email addresses",
@@ -315,13 +315,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/MadisonSquareGardenSports.png",
-    "PwnCount": 9796738
+    "Title": "Madison Square Garden Sports",
+    "Description": "In June 2026, the sports and entertainment company <a href=\"https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/\" target=\"_blank\" rel=\"noopener\">Madison Square Garden Sports was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group later published the alleged data, which included almost 10M unique email addresses spanning staff and customers, along with extensive personal, employment and customer relationship information."
   },
   {
+    "PwnCount": 368418,
     "AddedDate": "2026-06-20T03:02:45Z",
-    "Description": "In June 2026, retailer <a href=\"https://breachnews.com/breaches/shinyhunters-threatens-council-of-europe-american-tower-jcpenney-and-others-with-imminent-data-leaks/\" target=\"_blank\" rel=\"noopener\">JCPenney and associated brands were targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. Data allegedly obtained from JCPenney through the exploitation of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit\" target=\"_blank\" rel=\"noopener\">a critical zero-day vulnerability in Oracle PeopleSoft</a> was later published publicly. The exposed records indicated they primarily related to internal HR systems and impacted current and former employees. The data included 368k corporate and personal email addresses, names, dates of birth, Social Security numbers, phone numbers and home addresses.",
-    "Title": "JCPenney",
+    "LogoPath": "https://logos.haveibeenpwned.com/JCPenney.png",
     "DataClasses": [
       "Dates of birth",
       "Email addresses",
@@ -332,13 +332,13 @@
       "Physical addresses",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/JCPenney.png",
-    "PwnCount": 368418
+    "Title": "JCPenney",
+    "Description": "In June 2026, retailer <a href=\"https://breachnews.com/breaches/shinyhunters-threatens-council-of-europe-american-tower-jcpenney-and-others-with-imminent-data-leaks/\" target=\"_blank\" rel=\"noopener\">JCPenney and associated brands were targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. Data allegedly obtained from JCPenney through the exploitation of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit\" target=\"_blank\" rel=\"noopener\">a critical zero-day vulnerability in Oracle PeopleSoft</a> was later published publicly. The exposed records indicated they primarily related to internal HR systems and impacted current and former employees. The data included 368k corporate and personal email addresses, names, dates of birth, Social Security numbers, phone numbers and home addresses."
   },
   {
+    "PwnCount": 139903,
     "AddedDate": "2026-06-18T22:48:34Z",
-    "Description": "In June 2026, fashion retailer <a href=\"https://cybernews.com/security/ralph-lauren-data-breach-claims/\" target=\"_blank\" rel=\"noopener\">Ralph Lauren was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published hundreds of gigabytes of data they claimed was obtained from the organisation's Salesforce instance, including 140k unique email addresses along with names, phone numbers, genders and age groups.",
-    "Title": "Ralph Lauren",
+    "LogoPath": "https://logos.haveibeenpwned.com/RalphLauren.png",
     "DataClasses": [
       "Age groups",
       "Email addresses",
@@ -346,24 +346,24 @@
       "Names",
       "Phone numbers"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/RalphLauren.png",
-    "PwnCount": 139903
+    "Title": "Ralph Lauren",
+    "Description": "In June 2026, fashion retailer <a href=\"https://cybernews.com/security/ralph-lauren-data-breach-claims/\" target=\"_blank\" rel=\"noopener\">Ralph Lauren was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published hundreds of gigabytes of data they claimed was obtained from the organisation's Salesforce instance, including 140k unique email addresses along with names, phone numbers, genders and age groups."
   },
   {
+    "PwnCount": 4348526,
     "AddedDate": "2026-06-18T20:08:06Z",
-    "Description": "On 18 June 2026, the latest phase of <a href=\"https://www.politie.nl/en/news/2026/june/18/international-law-enforcement-initiate-hunt-on-malware-group-socgholish.html\" target=\"_blank\" rel=\"noopener\">Operation Endgame targeted the SocGholish malware operation</a>, a prolific malware distribution network used to compromise systems and facilitate further cybercrime. Coordinated by international law enforcement agencies with support from Europol and Eurojust, the operation remediated almost 15,000 compromised websites and disrupted more than 100 servers and domains used to distribute malware. Authorities initially provided HIBP with 154k impacted email addresses and more than half a million previously unseen passwords. The following week, a further 4M email addresses and 9M passwords relating to <a href=\"https://www.europol.europa.eu/media-press/newsroom/news/global-cyber-strike-disrupts-socgholish-amadey-and-stealc-malware-networks\" target=\"_blank\" rel=\"noopener\">the StealC malware operation also targeted by Operation Endgame</a> were provided, followed by another 131k email addresses the following month, bringing the total to more than 4.3M unique email addresses.",
-    "Title": "Operation Endgame 4.0",
+    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
     "DataClasses": [
       "Email addresses",
       "Passwords"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
-    "PwnCount": 4348526
+    "Title": "Operation Endgame 4.0",
+    "Description": "On 18 June 2026, the latest phase of <a href=\"https://www.politie.nl/en/news/2026/june/18/international-law-enforcement-initiate-hunt-on-malware-group-socgholish.html\" target=\"_blank\" rel=\"noopener\">Operation Endgame targeted the SocGholish malware operation</a>, a prolific malware distribution network used to compromise systems and facilitate further cybercrime. Coordinated by international law enforcement agencies with support from Europol and Eurojust, the operation remediated almost 15,000 compromised websites and disrupted more than 100 servers and domains used to distribute malware. Authorities initially provided HIBP with 154k impacted email addresses and more than half a million previously unseen passwords. The following week, a further 4M email addresses and 9M passwords relating to <a href=\"https://www.europol.europa.eu/media-press/newsroom/news/global-cyber-strike-disrupts-socgholish-amadey-and-stealc-malware-networks\" target=\"_blank\" rel=\"noopener\">the StealC malware operation also targeted by Operation Endgame</a> were provided, followed by another 131k email addresses the following month, bringing the total to more than 4.3M unique email addresses."
   },
   {
+    "PwnCount": 248235,
     "AddedDate": "2026-06-18T03:22:51Z",
-    "Description": "In March 2026, the financial consulting and advisory firm <a href=\"https://x.com/AlvieriD/status/2029785330677936135\" target=\"_blank\" rel=\"noopener\">CFGI was the target of a ShinyHunters \"pay-or-leak\" extortion campaign</a>. The group subsequently publicised data allegedly obtained from CFGI comprising corporate contact information, including 243k unique email addresses, names, phone numbers and physical addresses.",
-    "Title": "CFGI",
+    "LogoPath": "https://logos.haveibeenpwned.com/CFGI.png",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -372,24 +372,24 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/CFGI.png",
-    "PwnCount": 248235
+    "Title": "CFGI",
+    "Description": "In March 2026, the financial consulting and advisory firm <a href=\"https://x.com/AlvieriD/status/2029785330677936135\" target=\"_blank\" rel=\"noopener\">CFGI was the target of a ShinyHunters \"pay-or-leak\" extortion campaign</a>. The group subsequently publicised data allegedly obtained from CFGI comprising corporate contact information, including 243k unique email addresses, names, phone numbers and physical addresses."
   },
   {
+    "PwnCount": 56278397,
     "AddedDate": "2026-06-15T19:30:15Z",
-    "Description": "In June 2026, a collection of accumulated stealer logs from various sources was added to HIBP. The corpus comprised 56M unique email addresses across hundreds of millions of stealer log records. The data also contained 124M unique passwords, which have been added to <a href=\"https://haveibeenpwned.com/Passwords\">Pwned Passwords</a> and are now searchable. Individuals can view any records captured against their email address in <a href=\"https://haveibeenpwned.com/Dashboard/Redirect/StealerLogs\">the stealer logs section of their dashboard</a>. Organisations can see logs affecting their domain via <a href=\"https://haveibeenpwned.com/API/v3#StealerLogsOverview\">the stealer logs API</a>.",
-    "Title": "June 2026 Stealer Logs",
+    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
     "DataClasses": [
       "Email addresses",
       "Passwords"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/List.png",
-    "PwnCount": 56278397
+    "Title": "June 2026 Stealer Logs",
+    "Description": "In June 2026, a collection of accumulated stealer logs from various sources was added to HIBP. The corpus comprised 56M unique email addresses across hundreds of millions of stealer log records. The data also contained 124M unique passwords, which have been added to <a href=\"https://haveibeenpwned.com/Passwords\">Pwned Passwords</a> and are now searchable. Individuals can view any records captured against their email address in <a href=\"https://haveibeenpwned.com/Dashboard/Redirect/StealerLogs\">the stealer logs section of their dashboard</a>. Organisations can see logs affecting their domain via <a href=\"https://haveibeenpwned.com/API/v3#StealerLogsOverview\">the stealer logs API</a>."
   },
   {
+    "PwnCount": 305216,
     "AddedDate": "2026-06-15T04:09:04Z",
-    "Description": "In March 2026, the commercial real estate finance company <a href=\"https://x.com/AlvieriD/status/2034584125106000005\" target=\"_blank\" rel=\"noopener\">Berkadia was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they alleged was taken from Berkadia's Salesforce instance, including over 300k unique email addresses as well as names, physical addresses and phone numbers, among other data.",
-    "Title": "Berkadia",
+    "LogoPath": "https://logos.haveibeenpwned.com/Berkadia.png",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -397,13 +397,13 @@
       "Phone numbers",
       "Physical addresses"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/Berkadia.png",
-    "PwnCount": 305216
+    "Title": "Berkadia",
+    "Description": "In March 2026, the commercial real estate finance company <a href=\"https://x.com/AlvieriD/status/2034584125106000005\" target=\"_blank\" rel=\"noopener\">Berkadia was the target of a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they alleged was taken from Berkadia's Salesforce instance, including over 300k unique email addresses as well as names, physical addresses and phone numbers, among other data."
   },
   {
+    "PwnCount": 137123,
     "AddedDate": "2026-06-15T01:03:42Z",
-    "Description": "In March 2026, the student information system <a href=\"https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/\" target=\"_blank\" rel=\"noopener\">Infinite Campus was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they alleged was taken from Infinite Campus, containing 137k unique email addresses along with names, phone numbers, physical addresses and support tickets. <a href=\"https://www.reddit.com/r/k12sysadmin/comments/1s12xx7/infinite_campus_incident/\" target=\"_blank\" rel=\"noopener\">Infinite Campus subsequently sent notifications</a>, advising that the exposed data largely consisted of \"names and contact information for school staff\" and that \"the majority is directory information commonly found on school websites\".",
-    "Title": "Infinite Campus",
+    "LogoPath": "https://logos.haveibeenpwned.com/InfiniteCampus.png",
     "DataClasses": [
       "Email addresses",
       "Employers",
@@ -414,13 +414,13 @@
       "Support tickets",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/InfiniteCampus.png",
-    "PwnCount": 137123
+    "Title": "Infinite Campus",
+    "Description": "In March 2026, the student information system <a href=\"https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/\" target=\"_blank\" rel=\"noopener\">Infinite Campus was targeted in a ShinyHunters \"pay or leak\" extortion campaign</a>. The group subsequently published data they alleged was taken from Infinite Campus, containing 137k unique email addresses along with names, phone numbers, physical addresses and support tickets. <a href=\"https://www.reddit.com/r/k12sysadmin/comments/1s12xx7/infinite_campus_incident/\" target=\"_blank\" rel=\"noopener\">Infinite Campus subsequently sent notifications</a>, advising that the exposed data largely consisted of \"names and contact information for school staff\" and that \"the majority is directory information commonly found on school websites\"."
   },
   {
+    "PwnCount": 454635,
     "AddedDate": "2026-06-10T22:13:31Z",
-    "Description": "In June 2026, <a href=\"https://www.bbc.com/news/articles/ckg0lkp042zo\" target=\"_blank\" rel=\"noopener\">the University of Nottingham was the target of a cyber attack</a>, later linked to a ShinyHunters \"pay or leak\" extortion campaign. Tens of gigabytes of data were subsequently published online and included 455k unique email addresses along with extensive personal information including names, addresses, phone numbers, ethnicities, disabilities, passport numbers and information relating to academic enrolments and fee payments. <a href=\"https://www.nottingham.ac.uk/currentstudents/news/student-and-alumni-data-has-been-compromised-in-a-data-security-incident\" target=\"_blank\" rel=\"noopener\">In a post about the incident</a>, the university advised that the breach affected both \"current students, and alumni\".",
-    "Title": "University of Nottingham",
+    "LogoPath": "https://logos.haveibeenpwned.com/UniversityOfNottingham.png",
     "DataClasses": [
       "Academic records",
       "Citizenship statuses",
@@ -438,13 +438,13 @@
       "Salutations",
       "Usernames"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/UniversityOfNottingham.png",
-    "PwnCount": 454635
+    "Title": "University of Nottingham",
+    "Description": "In June 2026, <a href=\"https://www.bbc.com/news/articles/ckg0lkp042zo\" target=\"_blank\" rel=\"noopener\">the University of Nottingham was the target of a cyber attack</a>, later linked to a ShinyHunters \"pay or leak\" extortion campaign. Tens of gigabytes of data were subsequently published online and included 455k unique email addresses along with extensive personal information including names, addresses, phone numbers, ethnicities, disabilities, passport numbers and information relating to academic enrolments and fee payments. <a href=\"https://www.nottingham.ac.uk/currentstudents/news/student-and-alumni-data-has-been-compromised-in-a-data-security-incident\" target=\"_blank\" rel=\"noopener\">In a post about the incident</a>, the university advised that the breach affected both \"current students, and alumni\"."
   },
   {
+    "PwnCount": 102935,
     "AddedDate": "2026-06-07T06:16:36Z",
-    "Description": "In May 2026, the HVAC/R wholesale distributor <a href=\"https://x.com/DailyDarkWeb/status/2062522924582502737\" target=\"_blank\" rel=\"noopener\">Baker Distributing Company was added to the ShinyHunters data extortion group's \"pay or leak\" site</a>. In early June, the group publicly published data they claimed had been obtained from Baker's SharePoint and Salesforce infrastructure including 103k unique email addresses along with names, physical addresses, phone numbers and tickets relating to the company's HVAC contractor customer base. The exposed data was largely corporate contact and support information with limited sensitivity.",
-    "Title": "Baker Distributing",
+    "LogoPath": "https://logos.haveibeenpwned.com/BakerDistributing.png",
     "DataClasses": [
       "Email addresses",
       "Names",
@@ -452,7 +452,7 @@
       "Physical addresses",
       "Support tickets"
     ],
-    "LogoPath": "https://logos.haveibeenpwned.com/BakerDistributing.png",
-    "PwnCount": 102935
+    "Title": "Baker Distributing",
+    "Description": "In May 2026, the HVAC/R wholesale distributor <a href=\"https://x.com/DailyDarkWeb/status/2062522924582502737\" target=\"_blank\" rel=\"noopener\">Baker Distributing Company was added to the ShinyHunters data extortion group's \"pay or leak\" site</a>. In early June, the group publicly published data they claimed had been obtained from Baker's SharePoint and Salesforce infrastructure including 103k unique email addresses along with names, physical addresses, phone numbers and tickets relating to the company's HVAC contractor customer base. The exposed data was largely corporate contact and support information with limited sensitivity."
   }
 ]
