@@ -1,6 +1,5 @@
 [
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Crunchbase.png",
     "PwnCount": 559908,
     "Title": "Crunchbase",
     "AddedDate": "2026-10-14T06:01:26Z",
@@ -13,10 +12,10 @@
       "Phone numbers",
       "Physical addresses",
       "Social media profiles"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Crunchbase.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Sharecare.png",
     "PwnCount": 318185,
     "Title": "Sharecare",
     "AddedDate": "2026-10-12T23:28:32Z",
@@ -32,10 +31,10 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Sharecare.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Neogen.png",
     "PwnCount": 435963,
     "Title": "Neogen",
     "AddedDate": "2026-10-09T07:06:25Z",
@@ -48,10 +47,10 @@
       "Phone numbers",
       "Physical addresses",
       "Salutations"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Neogen.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/CyrusOne.png",
     "PwnCount": 373460,
     "Title": "CyrusOne",
     "AddedDate": "2026-10-07T23:19:16Z",
@@ -64,10 +63,10 @@
       "Phone numbers",
       "Physical addresses",
       "Support tickets"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/CyrusOne.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/DoubleCounter.png",
     "PwnCount": 274922,
     "Title": "Double Counter",
     "AddedDate": "2026-10-07T05:42:24Z",
@@ -77,10 +76,10 @@
       "Geographic locations",
       "Names",
       "Usernames"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/DoubleCounter.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/AngelOne.png",
     "PwnCount": 6765054,
     "Title": "Angel One",
     "AddedDate": "2026-10-07T03:45:31Z",
@@ -94,10 +93,10 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/AngelOne.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Medela.png",
     "PwnCount": 423947,
     "Title": "Medela",
     "AddedDate": "2026-09-30T11:48:28Z",
@@ -111,10 +110,10 @@
       "Physical addresses",
       "Salutations",
       "Support tickets"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Medela.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/LimeLeads.png",
     "PwnCount": 17838396,
     "Title": "LimeLeads",
     "AddedDate": "2026-09-22T08:02:37Z",
@@ -125,10 +124,10 @@
       "Geographic locations",
       "Job titles",
       "Phone numbers"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/LimeLeads.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/BurgerKing.png",
     "PwnCount": 3155792,
     "Title": "Burger King Russia",
     "AddedDate": "2026-09-21T13:54:00Z",
@@ -140,10 +139,10 @@
       "Geographic locations",
       "Names",
       "Phone numbers"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/BurgerKing.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Chess.png",
     "PwnCount": 4653212,
     "Title": "Chess.com (2026)",
     "AddedDate": "2026-09-13T13:09:11Z",
@@ -153,10 +152,10 @@
       "Geographic locations",
       "Names",
       "Usernames"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Chess.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/McKesson.png",
     "PwnCount": 6404340,
     "Title": "McKesson",
     "AddedDate": "2026-09-10T05:45:39Z",
@@ -170,10 +169,10 @@
       "Personal health data",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/McKesson.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/ManchesterAirportsGroup.png",
     "PwnCount": 8849657,
     "Title": "Manchester Airports Group",
     "AddedDate": "2026-09-02T07:36:59Z",
@@ -187,10 +186,10 @@
       "Phone numbers",
       "Purchases",
       "Vehicle registration plates"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/ManchesterAirportsGroup.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Questel.png",
     "PwnCount": 1226209,
     "Title": "Questel",
     "AddedDate": "2026-09-01T04:49:35Z",
@@ -203,10 +202,10 @@
       "Phone numbers",
       "Physical addresses",
       "Support tickets"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Questel.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Carhartt.png",
     "PwnCount": 12933413,
     "Title": "Carhartt",
     "AddedDate": "2026-08-25T21:34:25Z",
@@ -216,10 +215,10 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Carhartt.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/NIUS.png",
     "PwnCount": 6090,
     "Title": "NIUS",
     "AddedDate": "2026-08-23T22:25:44Z",
@@ -231,10 +230,10 @@
       "Partial credit card data",
       "Physical addresses",
       "Purchases"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/NIUS.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/GolfCanada.png",
     "PwnCount": 568972,
     "Title": "Golf Canada",
     "AddedDate": "2026-08-22T07:17:23Z",
@@ -246,10 +245,10 @@
       "Geographic locations",
       "Names",
       "Usernames"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/GolfCanada.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/OzHairAndBeauty.png",
     "PwnCount": 1988331,
     "Title": "Oz Hair and Beauty",
     "AddedDate": "2026-08-19T03:15:00Z",
@@ -260,10 +259,10 @@
       "Names",
       "Phone numbers",
       "Purchases"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/OzHairAndBeauty.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Fanlore.png",
     "PwnCount": 144520,
     "Title": "Fanlore",
     "AddedDate": "2026-08-19T02:09:16Z",
@@ -273,10 +272,10 @@
       "Names",
       "Passwords",
       "Usernames"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Fanlore.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/RingCentral.png",
     "PwnCount": 1596490,
     "Title": "RingCentral",
     "AddedDate": "2026-08-13T10:54:40Z",
@@ -286,10 +285,10 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/RingCentral.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Alcon.png",
     "PwnCount": 218395,
     "Title": "Alcon",
     "AddedDate": "2026-08-09T10:04:34Z",
@@ -299,10 +298,10 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Alcon.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/BrinksHome.png",
     "PwnCount": 732162,
     "Title": "Brinks Home",
     "AddedDate": "2026-08-08T10:44:52Z",
@@ -315,10 +314,10 @@
       "Phone numbers",
       "Physical addresses",
       "Purchases"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/BrinksHome.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/ExactSciences.png",
     "PwnCount": 10869543,
     "Title": "Exact Sciences",
     "AddedDate": "2026-08-07T06:27:29Z",
@@ -331,10 +330,10 @@
       "Personal health data",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/ExactSciences.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/InterConSecurity.png",
     "PwnCount": 276114,
     "Title": "Inter-Con Security",
     "AddedDate": "2026-08-05T23:39:01Z",
@@ -346,10 +345,10 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/InterConSecurity.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/SplitVPN.png",
     "PwnCount": 865336,
     "Title": "SplitVPN",
     "AddedDate": "2026-08-01T05:29:26Z",
@@ -360,10 +359,10 @@
       "Geographic locations",
       "IP addresses",
       "Partial credit card data"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/SplitVPN.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/HoustonCityCollege.png",
     "PwnCount": 831642,
     "Title": "Houston City College",
     "AddedDate": "2026-07-28T06:05:24Z",
@@ -377,10 +376,10 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/HoustonCityCollege.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Suno.png",
     "PwnCount": 55282226,
     "Title": "Suno",
     "AddedDate": "2026-07-20T19:49:51Z",
@@ -392,10 +391,10 @@
       "Phone numbers",
       "Physical addresses",
       "Purchases"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Suno.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Paidwork.png",
     "PwnCount": 23272765,
     "Title": "Paidwork",
     "AddedDate": "2026-07-19T22:57:18Z",
@@ -415,10 +414,10 @@
       "Phone numbers",
       "Physical addresses",
       "Profile photos"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Paidwork.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/Fluke.png",
     "PwnCount": 821100,
     "Title": "Fluke",
     "AddedDate": "2026-07-15T08:01:04Z",
@@ -430,10 +429,10 @@
       "Names",
       "Physical addresses",
       "Support tickets"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/Fluke.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/GooseCreek.png",
     "PwnCount": 6574121,
     "Title": "Goose Creek",
     "AddedDate": "2026-07-15T05:03:14Z",
@@ -444,10 +443,10 @@
       "Phone numbers",
       "Physical addresses",
       "Purchases"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/GooseCreek.png"
   },
   {
-    "LogoPath": "https://logos.haveibeenpwned.com/GlendaleCommunityCollege.png",
     "PwnCount": 793925,
     "Title": "Glendale Community College",
     "AddedDate": "2026-07-11T10:40:09Z",
@@ -461,6 +460,7 @@
       "Names",
       "Phone numbers",
       "Physical addresses"
-    ]
+    ],
+    "LogoPath": "https://logos.haveibeenpwned.com/GlendaleCommunityCollege.png"
   }
 ]
